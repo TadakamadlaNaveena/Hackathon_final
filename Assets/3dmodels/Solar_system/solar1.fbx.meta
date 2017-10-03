@@ -1,0 +1,5755 @@
+fileFormatVersion: 2
+guid: b1ba0326e3058174eb5f7ec58170f9d5
+timeCreated: 1506656699
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EARTH
+    100002: group1
+    100004: group10
+    100006: group2
+    100008: group3
+    100010: group4
+    100012: group5
+    100014: group6
+    100016: group7
+    100018: group8
+    100020: group9
+    100022: JUPITER
+    100024: MARS
+    100026: MERCURY
+    100028: MOON_EARTH
+    100030: NEPTUNE
+    100032: nurbsCircle1
+    100034: PLUTO
+    100036: pSphere1
+    100038: pSphere1 1
+    100040: pSphere1 10
+    100042: pSphere1 100
+    100044: pSphere1 101
+    100046: pSphere1 102
+    100048: pSphere1 103
+    100050: pSphere1 104
+    100052: pSphere1 105
+    100054: pSphere1 106
+    100056: pSphere1 107
+    100058: pSphere1 108
+    100060: pSphere1 109
+    100062: pSphere1 11
+    100064: pSphere1 110
+    100066: pSphere1 111
+    100068: pSphere1 112
+    100070: pSphere1 113
+    100072: pSphere1 114
+    100074: pSphere1 115
+    100076: pSphere1 116
+    100078: pSphere1 117
+    100080: pSphere1 118
+    100082: pSphere1 119
+    100084: pSphere1 12
+    100086: pSphere1 120
+    100088: pSphere1 121
+    100090: pSphere1 122
+    100092: pSphere1 123
+    100094: pSphere1 124
+    100096: pSphere1 125
+    100098: pSphere1 126
+    100100: pSphere1 127
+    100102: pSphere1 128
+    100104: pSphere1 129
+    100106: pSphere1 13
+    100108: pSphere1 130
+    100110: pSphere1 131
+    100112: pSphere1 132
+    100114: pSphere1 133
+    100116: pSphere1 134
+    100118: pSphere1 135
+    100120: pSphere1 136
+    100122: pSphere1 137
+    100124: pSphere1 138
+    100126: pSphere1 139
+    100128: pSphere1 14
+    100130: pSphere1 140
+    100132: pSphere1 141
+    100134: pSphere1 142
+    100136: pSphere1 143
+    100138: pSphere1 144
+    100140: pSphere1 145
+    100142: pSphere1 146
+    100144: pSphere1 147
+    100146: pSphere1 148
+    100148: pSphere1 149
+    100150: pSphere1 15
+    100152: pSphere1 150
+    100154: pSphere1 151
+    100156: pSphere1 152
+    100158: pSphere1 153
+    100160: pSphere1 154
+    100162: pSphere1 155
+    100164: pSphere1 156
+    100166: pSphere1 157
+    100168: pSphere1 158
+    100170: pSphere1 159
+    100172: pSphere1 16
+    100174: pSphere1 160
+    100176: pSphere1 161
+    100178: pSphere1 162
+    100180: pSphere1 163
+    100182: pSphere1 164
+    100184: pSphere1 165
+    100186: pSphere1 166
+    100188: pSphere1 167
+    100190: pSphere1 168
+    100192: pSphere1 169
+    100194: pSphere1 17
+    100196: pSphere1 170
+    100198: pSphere1 171
+    100200: pSphere1 172
+    100202: pSphere1 173
+    100204: pSphere1 174
+    100206: pSphere1 175
+    100208: pSphere1 176
+    100210: pSphere1 177
+    100212: pSphere1 178
+    100214: pSphere1 179
+    100216: pSphere1 18
+    100218: pSphere1 180
+    100220: pSphere1 181
+    100222: pSphere1 182
+    100224: pSphere1 183
+    100226: pSphere1 184
+    100228: pSphere1 185
+    100230: pSphere1 186
+    100232: pSphere1 187
+    100234: pSphere1 188
+    100236: pSphere1 189
+    100238: pSphere1 19
+    100240: pSphere1 190
+    100242: pSphere1 191
+    100244: pSphere1 192
+    100246: pSphere1 193
+    100248: pSphere1 194
+    100250: pSphere1 195
+    100252: pSphere1 196
+    100254: pSphere1 197
+    100256: pSphere1 198
+    100258: pSphere1 199
+    100260: pSphere1 2
+    100262: pSphere1 20
+    100264: pSphere1 200
+    100266: pSphere1 201
+    100268: pSphere1 202
+    100270: pSphere1 203
+    100272: pSphere1 204
+    100274: pSphere1 205
+    100276: pSphere1 206
+    100278: pSphere1 207
+    100280: pSphere1 208
+    100282: pSphere1 209
+    100284: pSphere1 21
+    100286: pSphere1 210
+    100288: pSphere1 211
+    100290: pSphere1 212
+    100292: pSphere1 213
+    100294: pSphere1 214
+    100296: pSphere1 215
+    100298: pSphere1 216
+    100300: pSphere1 217
+    100302: pSphere1 218
+    100304: pSphere1 219
+    100306: pSphere1 22
+    100308: pSphere1 220
+    100310: pSphere1 221
+    100312: pSphere1 222
+    100314: pSphere1 223
+    100316: pSphere1 224
+    100318: pSphere1 225
+    100320: pSphere1 226
+    100322: pSphere1 227
+    100324: pSphere1 228
+    100326: pSphere1 229
+    100328: pSphere1 23
+    100330: pSphere1 230
+    100332: pSphere1 231
+    100334: pSphere1 232
+    100336: pSphere1 233
+    100338: pSphere1 234
+    100340: pSphere1 235
+    100342: pSphere1 236
+    100344: pSphere1 237
+    100346: pSphere1 238
+    100348: pSphere1 239
+    100350: pSphere1 24
+    100352: pSphere1 240
+    100354: pSphere1 241
+    100356: pSphere1 242
+    100358: pSphere1 243
+    100360: pSphere1 244
+    100362: pSphere1 245
+    100364: pSphere1 246
+    100366: pSphere1 247
+    100368: pSphere1 248
+    100370: pSphere1 249
+    100372: pSphere1 25
+    100374: pSphere1 250
+    100376: pSphere1 251
+    100378: pSphere1 252
+    100380: pSphere1 253
+    100382: pSphere1 254
+    100384: pSphere1 255
+    100386: pSphere1 256
+    100388: pSphere1 257
+    100390: pSphere1 258
+    100392: pSphere1 259
+    100394: pSphere1 26
+    100396: pSphere1 260
+    100398: pSphere1 261
+    100400: pSphere1 262
+    100402: pSphere1 263
+    100404: pSphere1 264
+    100406: pSphere1 265
+    100408: pSphere1 266
+    100410: pSphere1 267
+    100412: pSphere1 268
+    100414: pSphere1 269
+    100416: pSphere1 27
+    100418: pSphere1 270
+    100420: pSphere1 271
+    100422: pSphere1 272
+    100424: pSphere1 273
+    100426: pSphere1 274
+    100428: pSphere1 275
+    100430: pSphere1 276
+    100432: pSphere1 277
+    100434: pSphere1 278
+    100436: pSphere1 279
+    100438: pSphere1 28
+    100440: pSphere1 280
+    100442: pSphere1 281
+    100444: pSphere1 282
+    100446: pSphere1 283
+    100448: pSphere1 284
+    100450: pSphere1 285
+    100452: pSphere1 286
+    100454: pSphere1 287
+    100456: pSphere1 288
+    100458: pSphere1 289
+    100460: pSphere1 29
+    100462: pSphere1 290
+    100464: pSphere1 291
+    100466: pSphere1 292
+    100468: pSphere1 293
+    100470: pSphere1 294
+    100472: pSphere1 295
+    100474: pSphere1 296
+    100476: pSphere1 297
+    100478: pSphere1 298
+    100480: pSphere1 299
+    100482: pSphere1 3
+    100484: pSphere1 30
+    100486: pSphere1 300
+    100488: pSphere1 301
+    100490: pSphere1 302
+    100492: pSphere1 303
+    100494: pSphere1 304
+    100496: pSphere1 305
+    100498: pSphere1 306
+    100500: pSphere1 307
+    100502: pSphere1 308
+    100504: pSphere1 309
+    100506: pSphere1 31
+    100508: pSphere1 310
+    100510: pSphere1 311
+    100512: pSphere1 312
+    100514: pSphere1 313
+    100516: pSphere1 314
+    100518: pSphere1 315
+    100520: pSphere1 316
+    100522: pSphere1 317
+    100524: pSphere1 318
+    100526: pSphere1 319
+    100528: pSphere1 32
+    100530: pSphere1 320
+    100532: pSphere1 321
+    100534: pSphere1 322
+    100536: pSphere1 323
+    100538: pSphere1 324
+    100540: pSphere1 325
+    100542: pSphere1 326
+    100544: pSphere1 327
+    100546: pSphere1 328
+    100548: pSphere1 329
+    100550: pSphere1 33
+    100552: pSphere1 330
+    100554: pSphere1 331
+    100556: pSphere1 332
+    100558: pSphere1 333
+    100560: pSphere1 334
+    100562: pSphere1 335
+    100564: pSphere1 336
+    100566: pSphere1 337
+    100568: pSphere1 338
+    100570: pSphere1 339
+    100572: pSphere1 34
+    100574: pSphere1 340
+    100576: pSphere1 341
+    100578: pSphere1 342
+    100580: pSphere1 343
+    100582: pSphere1 344
+    100584: pSphere1 345
+    100586: pSphere1 346
+    100588: pSphere1 347
+    100590: pSphere1 348
+    100592: pSphere1 349
+    100594: pSphere1 35
+    100596: pSphere1 350
+    100598: pSphere1 351
+    100600: pSphere1 352
+    100602: pSphere1 353
+    100604: pSphere1 354
+    100606: pSphere1 355
+    100608: pSphere1 356
+    100610: pSphere1 357
+    100612: pSphere1 358
+    100614: pSphere1 359
+    100616: pSphere1 36
+    100618: pSphere1 360
+    100620: pSphere1 361
+    100622: pSphere1 362
+    100624: pSphere1 363
+    100626: pSphere1 364
+    100628: pSphere1 365
+    100630: pSphere1 366
+    100632: pSphere1 367
+    100634: pSphere1 368
+    100636: pSphere1 369
+    100638: pSphere1 37
+    100640: pSphere1 370
+    100642: pSphere1 371
+    100644: pSphere1 372
+    100646: pSphere1 373
+    100648: pSphere1 374
+    100650: pSphere1 375
+    100652: pSphere1 376
+    100654: pSphere1 377
+    100656: pSphere1 378
+    100658: pSphere1 379
+    100660: pSphere1 38
+    100662: pSphere1 380
+    100664: pSphere1 381
+    100666: pSphere1 382
+    100668: pSphere1 383
+    100670: pSphere1 384
+    100672: pSphere1 385
+    100674: pSphere1 386
+    100676: pSphere1 387
+    100678: pSphere1 388
+    100680: pSphere1 389
+    100682: pSphere1 39
+    100684: pSphere1 390
+    100686: pSphere1 391
+    100688: pSphere1 392
+    100690: pSphere1 393
+    100692: pSphere1 394
+    100694: pSphere1 395
+    100696: pSphere1 396
+    100698: pSphere1 397
+    100700: pSphere1 398
+    100702: pSphere1 399
+    100704: pSphere1 4
+    100706: pSphere1 40
+    100708: pSphere1 400
+    100710: pSphere1 401
+    100712: pSphere1 402
+    100714: pSphere1 403
+    100716: pSphere1 404
+    100718: pSphere1 405
+    100720: pSphere1 406
+    100722: pSphere1 407
+    100724: pSphere1 408
+    100726: pSphere1 409
+    100728: pSphere1 41
+    100730: pSphere1 410
+    100732: pSphere1 411
+    100734: pSphere1 412
+    100736: pSphere1 413
+    100738: pSphere1 414
+    100740: pSphere1 415
+    100742: pSphere1 416
+    100744: pSphere1 417
+    100746: pSphere1 418
+    100748: pSphere1 419
+    100750: pSphere1 42
+    100752: pSphere1 420
+    100754: pSphere1 421
+    100756: pSphere1 422
+    100758: pSphere1 423
+    100760: pSphere1 424
+    100762: pSphere1 425
+    100764: pSphere1 426
+    100766: pSphere1 427
+    100768: pSphere1 428
+    100770: pSphere1 429
+    100772: pSphere1 43
+    100774: pSphere1 430
+    100776: pSphere1 431
+    100778: pSphere1 432
+    100780: pSphere1 433
+    100782: pSphere1 434
+    100784: pSphere1 435
+    100786: pSphere1 436
+    100788: pSphere1 437
+    100790: pSphere1 438
+    100792: pSphere1 439
+    100794: pSphere1 44
+    100796: pSphere1 440
+    100798: pSphere1 441
+    100800: pSphere1 442
+    100802: pSphere1 443
+    100804: pSphere1 444
+    100806: pSphere1 445
+    100808: pSphere1 446
+    100810: pSphere1 447
+    100812: pSphere1 448
+    100814: pSphere1 449
+    100816: pSphere1 45
+    100818: pSphere1 450
+    100820: pSphere1 451
+    100822: pSphere1 452
+    100824: pSphere1 453
+    100826: pSphere1 454
+    100828: pSphere1 455
+    100830: pSphere1 456
+    100832: pSphere1 457
+    100834: pSphere1 458
+    100836: pSphere1 459
+    100838: pSphere1 46
+    100840: pSphere1 460
+    100842: pSphere1 461
+    100844: pSphere1 462
+    100846: pSphere1 463
+    100848: pSphere1 464
+    100850: pSphere1 465
+    100852: pSphere1 466
+    100854: pSphere1 467
+    100856: pSphere1 468
+    100858: pSphere1 469
+    100860: pSphere1 47
+    100862: pSphere1 470
+    100864: pSphere1 471
+    100866: pSphere1 472
+    100868: pSphere1 473
+    100870: pSphere1 474
+    100872: pSphere1 475
+    100874: pSphere1 476
+    100876: pSphere1 477
+    100878: pSphere1 478
+    100880: pSphere1 479
+    100882: pSphere1 48
+    100884: pSphere1 480
+    100886: pSphere1 481
+    100888: pSphere1 482
+    100890: pSphere1 483
+    100892: pSphere1 484
+    100894: pSphere1 485
+    100896: pSphere1 486
+    100898: pSphere1 487
+    100900: pSphere1 488
+    100902: pSphere1 489
+    100904: pSphere1 49
+    100906: pSphere1 490
+    100908: pSphere1 491
+    100910: pSphere1 492
+    100912: pSphere1 493
+    100914: pSphere1 494
+    100916: pSphere1 495
+    100918: pSphere1 496
+    100920: pSphere1 497
+    100922: pSphere1 498
+    100924: pSphere1 499
+    100926: pSphere1 5
+    100928: pSphere1 50
+    100930: pSphere1 500
+    100932: pSphere1 51
+    100934: pSphere1 52
+    100936: pSphere1 53
+    100938: pSphere1 54
+    100940: pSphere1 55
+    100942: pSphere1 56
+    100944: pSphere1 57
+    100946: pSphere1 58
+    100948: pSphere1 59
+    100950: pSphere1 6
+    100952: pSphere1 60
+    100954: pSphere1 61
+    100956: pSphere1 62
+    100958: pSphere1 63
+    100960: pSphere1 64
+    100962: pSphere1 65
+    100964: pSphere1 66
+    100966: pSphere1 67
+    100968: pSphere1 68
+    100970: pSphere1 69
+    100972: pSphere1 7
+    100974: pSphere1 70
+    100976: pSphere1 71
+    100978: pSphere1 72
+    100980: pSphere1 73
+    100982: pSphere1 74
+    100984: pSphere1 75
+    100986: pSphere1 76
+    100988: pSphere1 77
+    100990: pSphere1 78
+    100992: pSphere1 79
+    100994: pSphere1 8
+    100996: pSphere1 80
+    100998: pSphere1 81
+    101000: pSphere1 82
+    101002: pSphere1 83
+    101004: pSphere1 84
+    101006: pSphere1 85
+    101008: pSphere1 86
+    101010: pSphere1 87
+    101012: pSphere1 88
+    101014: pSphere1 89
+    101016: pSphere1 9
+    101018: pSphere1 90
+    101020: pSphere1 91
+    101022: pSphere1 92
+    101024: pSphere1 93
+    101026: pSphere1 94
+    101028: pSphere1 95
+    101030: pSphere1 96
+    101032: pSphere1 97
+    101034: pSphere1 98
+    101036: pSphere1 99
+    101038: RING1
+    101040: RING2
+    101042: rockgroup1
+    101044: rockgroup10
+    101046: rockgroup100
+    101048: rockgroup101
+    101050: rockgroup102
+    101052: rockgroup103
+    101054: rockgroup104
+    101056: rockgroup105
+    101058: rockgroup106
+    101060: rockgroup107
+    101062: rockgroup108
+    101064: rockgroup109
+    101066: rockgroup11
+    101068: rockgroup110
+    101070: rockgroup111
+    101072: rockgroup112
+    101074: rockgroup113
+    101076: rockgroup114
+    101078: rockgroup115
+    101080: rockgroup116
+    101082: rockgroup117
+    101084: rockgroup118
+    101086: rockgroup119
+    101088: rockgroup12
+    101090: rockgroup120
+    101092: rockgroup121
+    101094: rockgroup122
+    101096: rockgroup123
+    101098: rockgroup124
+    101100: rockgroup125
+    101102: rockgroup126
+    101104: rockgroup127
+    101106: rockgroup128
+    101108: rockgroup129
+    101110: rockgroup13
+    101112: rockgroup130
+    101114: rockgroup131
+    101116: rockgroup132
+    101118: rockgroup133
+    101120: rockgroup134
+    101122: rockgroup135
+    101124: rockgroup136
+    101126: rockgroup137
+    101128: rockgroup138
+    101130: rockgroup139
+    101132: rockgroup14
+    101134: rockgroup140
+    101136: rockgroup141
+    101138: rockgroup142
+    101140: rockgroup143
+    101142: rockgroup144
+    101144: rockgroup145
+    101146: rockgroup146
+    101148: rockgroup147
+    101150: rockgroup148
+    101152: rockgroup149
+    101154: rockgroup15
+    101156: rockgroup150
+    101158: rockgroup151
+    101160: rockgroup152
+    101162: rockgroup153
+    101164: rockgroup154
+    101166: rockgroup155
+    101168: rockgroup156
+    101170: rockgroup157
+    101172: rockgroup158
+    101174: rockgroup159
+    101176: rockgroup16
+    101178: rockgroup160
+    101180: rockgroup161
+    101182: rockgroup162
+    101184: rockgroup163
+    101186: rockgroup164
+    101188: rockgroup165
+    101190: rockgroup166
+    101192: rockgroup167
+    101194: rockgroup168
+    101196: rockgroup169
+    101198: rockgroup17
+    101200: rockgroup170
+    101202: rockgroup171
+    101204: rockgroup172
+    101206: rockgroup173
+    101208: rockgroup174
+    101210: rockgroup175
+    101212: rockgroup176
+    101214: rockgroup177
+    101216: rockgroup178
+    101218: rockgroup179
+    101220: rockgroup18
+    101222: rockgroup180
+    101224: rockgroup181
+    101226: rockgroup182
+    101228: rockgroup183
+    101230: rockgroup184
+    101232: rockgroup185
+    101234: rockgroup186
+    101236: rockgroup187
+    101238: rockgroup188
+    101240: rockgroup189
+    101242: rockgroup19
+    101244: rockgroup190
+    101246: rockgroup191
+    101248: rockgroup192
+    101250: rockgroup193
+    101252: rockgroup194
+    101254: rockgroup195
+    101256: rockgroup196
+    101258: rockgroup197
+    101260: rockgroup198
+    101262: rockgroup199
+    101264: rockgroup2
+    101266: rockgroup20
+    101268: rockgroup200
+    101270: rockgroup201
+    101272: rockgroup202
+    101274: rockgroup203
+    101276: rockgroup204
+    101278: rockgroup205
+    101280: rockgroup206
+    101282: rockgroup207
+    101284: rockgroup208
+    101286: rockgroup209
+    101288: rockgroup21
+    101290: rockgroup210
+    101292: rockgroup211
+    101294: rockgroup212
+    101296: rockgroup213
+    101298: rockgroup214
+    101300: rockgroup215
+    101302: rockgroup216
+    101304: rockgroup217
+    101306: rockgroup218
+    101308: rockgroup219
+    101310: rockgroup22
+    101312: rockgroup220
+    101314: rockgroup221
+    101316: rockgroup222
+    101318: rockgroup223
+    101320: rockgroup224
+    101322: rockgroup225
+    101324: rockgroup226
+    101326: rockgroup227
+    101328: rockgroup228
+    101330: rockgroup229
+    101332: rockgroup23
+    101334: rockgroup230
+    101336: rockgroup231
+    101338: rockgroup232
+    101340: rockgroup233
+    101342: rockgroup234
+    101344: rockgroup235
+    101346: rockgroup236
+    101348: rockgroup237
+    101350: rockgroup238
+    101352: rockgroup239
+    101354: rockgroup24
+    101356: rockgroup240
+    101358: rockgroup241
+    101360: rockgroup242
+    101362: rockgroup243
+    101364: rockgroup244
+    101366: rockgroup245
+    101368: rockgroup246
+    101370: rockgroup247
+    101372: rockgroup248
+    101374: rockgroup249
+    101376: rockgroup25
+    101378: rockgroup250
+    101380: rockgroup251
+    101382: rockgroup252
+    101384: rockgroup253
+    101386: rockgroup254
+    101388: rockgroup255
+    101390: rockgroup256
+    101392: rockgroup257
+    101394: rockgroup258
+    101396: rockgroup259
+    101398: rockgroup26
+    101400: rockgroup260
+    101402: rockgroup261
+    101404: rockgroup262
+    101406: rockgroup263
+    101408: rockgroup264
+    101410: rockgroup265
+    101412: rockgroup266
+    101414: rockgroup267
+    101416: rockgroup268
+    101418: rockgroup269
+    101420: rockgroup27
+    101422: rockgroup270
+    101424: rockgroup271
+    101426: rockgroup272
+    101428: rockgroup273
+    101430: rockgroup274
+    101432: rockgroup275
+    101434: rockgroup276
+    101436: rockgroup277
+    101438: rockgroup278
+    101440: rockgroup279
+    101442: rockgroup28
+    101444: rockgroup280
+    101446: rockgroup281
+    101448: rockgroup282
+    101450: rockgroup283
+    101452: rockgroup284
+    101454: rockgroup285
+    101456: rockgroup286
+    101458: rockgroup287
+    101460: rockgroup288
+    101462: rockgroup289
+    101464: rockgroup29
+    101466: rockgroup290
+    101468: rockgroup291
+    101470: rockgroup292
+    101472: rockgroup293
+    101474: rockgroup294
+    101476: rockgroup295
+    101478: rockgroup296
+    101480: rockgroup297
+    101482: rockgroup298
+    101484: rockgroup299
+    101486: rockgroup3
+    101488: rockgroup30
+    101490: rockgroup300
+    101492: rockgroup301
+    101494: rockgroup302
+    101496: rockgroup303
+    101498: rockgroup304
+    101500: rockgroup305
+    101502: rockgroup306
+    101504: rockgroup307
+    101506: rockgroup308
+    101508: rockgroup309
+    101510: rockgroup31
+    101512: rockgroup310
+    101514: rockgroup311
+    101516: rockgroup312
+    101518: rockgroup313
+    101520: rockgroup314
+    101522: rockgroup315
+    101524: rockgroup316
+    101526: rockgroup317
+    101528: rockgroup318
+    101530: rockgroup319
+    101532: rockgroup32
+    101534: rockgroup320
+    101536: rockgroup321
+    101538: rockgroup322
+    101540: rockgroup323
+    101542: rockgroup324
+    101544: rockgroup325
+    101546: rockgroup326
+    101548: rockgroup327
+    101550: rockgroup328
+    101552: rockgroup329
+    101554: rockgroup33
+    101556: rockgroup330
+    101558: rockgroup331
+    101560: rockgroup332
+    101562: rockgroup333
+    101564: rockgroup334
+    101566: rockgroup335
+    101568: rockgroup336
+    101570: rockgroup337
+    101572: rockgroup338
+    101574: rockgroup339
+    101576: rockgroup34
+    101578: rockgroup340
+    101580: rockgroup341
+    101582: rockgroup342
+    101584: rockgroup343
+    101586: rockgroup344
+    101588: rockgroup345
+    101590: rockgroup346
+    101592: rockgroup347
+    101594: rockgroup348
+    101596: rockgroup349
+    101598: rockgroup35
+    101600: rockgroup350
+    101602: rockgroup351
+    101604: rockgroup352
+    101606: rockgroup353
+    101608: rockgroup354
+    101610: rockgroup355
+    101612: rockgroup356
+    101614: rockgroup357
+    101616: rockgroup358
+    101618: rockgroup359
+    101620: rockgroup36
+    101622: rockgroup360
+    101624: rockgroup361
+    101626: rockgroup362
+    101628: rockgroup363
+    101630: rockgroup364
+    101632: rockgroup365
+    101634: rockgroup366
+    101636: rockgroup367
+    101638: rockgroup368
+    101640: rockgroup369
+    101642: rockgroup37
+    101644: rockgroup370
+    101646: rockgroup371
+    101648: rockgroup372
+    101650: rockgroup373
+    101652: rockgroup374
+    101654: rockgroup375
+    101656: rockgroup376
+    101658: rockgroup377
+    101660: rockgroup378
+    101662: rockgroup379
+    101664: rockgroup38
+    101666: rockgroup380
+    101668: rockgroup381
+    101670: rockgroup382
+    101672: rockgroup383
+    101674: rockgroup384
+    101676: rockgroup385
+    101678: rockgroup386
+    101680: rockgroup387
+    101682: rockgroup388
+    101684: rockgroup389
+    101686: rockgroup39
+    101688: rockgroup390
+    101690: rockgroup391
+    101692: rockgroup392
+    101694: rockgroup393
+    101696: rockgroup394
+    101698: rockgroup395
+    101700: rockgroup396
+    101702: rockgroup397
+    101704: rockgroup398
+    101706: rockgroup399
+    101708: rockgroup4
+    101710: rockgroup40
+    101712: rockgroup400
+    101714: rockgroup401
+    101716: rockgroup402
+    101718: rockgroup403
+    101720: rockgroup404
+    101722: rockgroup405
+    101724: rockgroup406
+    101726: rockgroup407
+    101728: rockgroup408
+    101730: rockgroup409
+    101732: rockgroup41
+    101734: rockgroup410
+    101736: rockgroup411
+    101738: rockgroup412
+    101740: rockgroup413
+    101742: rockgroup414
+    101744: rockgroup415
+    101746: rockgroup416
+    101748: rockgroup417
+    101750: rockgroup418
+    101752: rockgroup419
+    101754: rockgroup42
+    101756: rockgroup420
+    101758: rockgroup421
+    101760: rockgroup422
+    101762: rockgroup423
+    101764: rockgroup424
+    101766: rockgroup425
+    101768: rockgroup426
+    101770: rockgroup427
+    101772: rockgroup428
+    101774: rockgroup429
+    101776: rockgroup43
+    101778: rockgroup430
+    101780: rockgroup431
+    101782: rockgroup432
+    101784: rockgroup433
+    101786: rockgroup434
+    101788: rockgroup435
+    101790: rockgroup436
+    101792: rockgroup437
+    101794: rockgroup438
+    101796: rockgroup439
+    101798: rockgroup44
+    101800: rockgroup440
+    101802: rockgroup441
+    101804: rockgroup442
+    101806: rockgroup443
+    101808: rockgroup444
+    101810: rockgroup445
+    101812: rockgroup446
+    101814: rockgroup447
+    101816: rockgroup448
+    101818: rockgroup449
+    101820: rockgroup45
+    101822: rockgroup450
+    101824: rockgroup451
+    101826: rockgroup452
+    101828: rockgroup453
+    101830: rockgroup454
+    101832: rockgroup455
+    101834: rockgroup456
+    101836: rockgroup457
+    101838: rockgroup458
+    101840: rockgroup459
+    101842: rockgroup46
+    101844: rockgroup460
+    101846: rockgroup461
+    101848: rockgroup462
+    101850: rockgroup463
+    101852: rockgroup464
+    101854: rockgroup465
+    101856: rockgroup466
+    101858: rockgroup467
+    101860: rockgroup468
+    101862: rockgroup469
+    101864: rockgroup47
+    101866: rockgroup470
+    101868: rockgroup471
+    101870: rockgroup472
+    101872: rockgroup473
+    101874: rockgroup474
+    101876: rockgroup475
+    101878: rockgroup476
+    101880: rockgroup477
+    101882: rockgroup478
+    101884: rockgroup479
+    101886: rockgroup48
+    101888: rockgroup480
+    101890: rockgroup481
+    101892: rockgroup482
+    101894: rockgroup483
+    101896: rockgroup484
+    101898: rockgroup485
+    101900: rockgroup486
+    101902: rockgroup487
+    101904: rockgroup488
+    101906: rockgroup489
+    101908: rockgroup49
+    101910: rockgroup490
+    101912: rockgroup491
+    101914: rockgroup492
+    101916: rockgroup493
+    101918: rockgroup494
+    101920: rockgroup495
+    101922: rockgroup496
+    101924: rockgroup497
+    101926: rockgroup498
+    101928: rockgroup499
+    101930: rockgroup5
+    101932: rockgroup50
+    101934: rockgroup500
+    101936: rockgroup501
+    101938: rockgroup51
+    101940: rockgroup52
+    101942: rockgroup53
+    101944: rockgroup54
+    101946: rockgroup55
+    101948: rockgroup56
+    101950: rockgroup57
+    101952: rockgroup58
+    101954: rockgroup59
+    101956: rockgroup6
+    101958: rockgroup60
+    101960: rockgroup61
+    101962: rockgroup62
+    101964: rockgroup63
+    101966: rockgroup64
+    101968: rockgroup65
+    101970: rockgroup66
+    101972: rockgroup67
+    101974: rockgroup68
+    101976: rockgroup69
+    101978: rockgroup7
+    101980: rockgroup70
+    101982: rockgroup71
+    101984: rockgroup72
+    101986: rockgroup73
+    101988: rockgroup74
+    101990: rockgroup75
+    101992: rockgroup76
+    101994: rockgroup77
+    101996: rockgroup78
+    101998: rockgroup79
+    102000: rockgroup8
+    102002: rockgroup80
+    102004: rockgroup81
+    102006: rockgroup82
+    102008: rockgroup83
+    102010: rockgroup84
+    102012: rockgroup85
+    102014: rockgroup86
+    102016: rockgroup87
+    102018: rockgroup88
+    102020: rockgroup89
+    102022: rockgroup9
+    102024: rockgroup90
+    102026: rockgroup91
+    102028: rockgroup92
+    102030: rockgroup93
+    102032: rockgroup94
+    102034: rockgroup95
+    102036: rockgroup96
+    102038: rockgroup97
+    102040: rockgroup98
+    102042: rockgroup99
+    102044: //RootNode
+    102046: STARUN
+    102048: SUN
+    102050: URANUS
+    102052: VENUS
+    400000: EARTH
+    400002: group1
+    400004: group10
+    400006: group2
+    400008: group3
+    400010: group4
+    400012: group5
+    400014: group6
+    400016: group7
+    400018: group8
+    400020: group9
+    400022: JUPITER
+    400024: MARS
+    400026: MERCURY
+    400028: MOON_EARTH
+    400030: NEPTUNE
+    400032: nurbsCircle1
+    400034: PLUTO
+    400036: pSphere1
+    400038: pSphere1 1
+    400040: pSphere1 10
+    400042: pSphere1 100
+    400044: pSphere1 101
+    400046: pSphere1 102
+    400048: pSphere1 103
+    400050: pSphere1 104
+    400052: pSphere1 105
+    400054: pSphere1 106
+    400056: pSphere1 107
+    400058: pSphere1 108
+    400060: pSphere1 109
+    400062: pSphere1 11
+    400064: pSphere1 110
+    400066: pSphere1 111
+    400068: pSphere1 112
+    400070: pSphere1 113
+    400072: pSphere1 114
+    400074: pSphere1 115
+    400076: pSphere1 116
+    400078: pSphere1 117
+    400080: pSphere1 118
+    400082: pSphere1 119
+    400084: pSphere1 12
+    400086: pSphere1 120
+    400088: pSphere1 121
+    400090: pSphere1 122
+    400092: pSphere1 123
+    400094: pSphere1 124
+    400096: pSphere1 125
+    400098: pSphere1 126
+    400100: pSphere1 127
+    400102: pSphere1 128
+    400104: pSphere1 129
+    400106: pSphere1 13
+    400108: pSphere1 130
+    400110: pSphere1 131
+    400112: pSphere1 132
+    400114: pSphere1 133
+    400116: pSphere1 134
+    400118: pSphere1 135
+    400120: pSphere1 136
+    400122: pSphere1 137
+    400124: pSphere1 138
+    400126: pSphere1 139
+    400128: pSphere1 14
+    400130: pSphere1 140
+    400132: pSphere1 141
+    400134: pSphere1 142
+    400136: pSphere1 143
+    400138: pSphere1 144
+    400140: pSphere1 145
+    400142: pSphere1 146
+    400144: pSphere1 147
+    400146: pSphere1 148
+    400148: pSphere1 149
+    400150: pSphere1 15
+    400152: pSphere1 150
+    400154: pSphere1 151
+    400156: pSphere1 152
+    400158: pSphere1 153
+    400160: pSphere1 154
+    400162: pSphere1 155
+    400164: pSphere1 156
+    400166: pSphere1 157
+    400168: pSphere1 158
+    400170: pSphere1 159
+    400172: pSphere1 16
+    400174: pSphere1 160
+    400176: pSphere1 161
+    400178: pSphere1 162
+    400180: pSphere1 163
+    400182: pSphere1 164
+    400184: pSphere1 165
+    400186: pSphere1 166
+    400188: pSphere1 167
+    400190: pSphere1 168
+    400192: pSphere1 169
+    400194: pSphere1 17
+    400196: pSphere1 170
+    400198: pSphere1 171
+    400200: pSphere1 172
+    400202: pSphere1 173
+    400204: pSphere1 174
+    400206: pSphere1 175
+    400208: pSphere1 176
+    400210: pSphere1 177
+    400212: pSphere1 178
+    400214: pSphere1 179
+    400216: pSphere1 18
+    400218: pSphere1 180
+    400220: pSphere1 181
+    400222: pSphere1 182
+    400224: pSphere1 183
+    400226: pSphere1 184
+    400228: pSphere1 185
+    400230: pSphere1 186
+    400232: pSphere1 187
+    400234: pSphere1 188
+    400236: pSphere1 189
+    400238: pSphere1 19
+    400240: pSphere1 190
+    400242: pSphere1 191
+    400244: pSphere1 192
+    400246: pSphere1 193
+    400248: pSphere1 194
+    400250: pSphere1 195
+    400252: pSphere1 196
+    400254: pSphere1 197
+    400256: pSphere1 198
+    400258: pSphere1 199
+    400260: pSphere1 2
+    400262: pSphere1 20
+    400264: pSphere1 200
+    400266: pSphere1 201
+    400268: pSphere1 202
+    400270: pSphere1 203
+    400272: pSphere1 204
+    400274: pSphere1 205
+    400276: pSphere1 206
+    400278: pSphere1 207
+    400280: pSphere1 208
+    400282: pSphere1 209
+    400284: pSphere1 21
+    400286: pSphere1 210
+    400288: pSphere1 211
+    400290: pSphere1 212
+    400292: pSphere1 213
+    400294: pSphere1 214
+    400296: pSphere1 215
+    400298: pSphere1 216
+    400300: pSphere1 217
+    400302: pSphere1 218
+    400304: pSphere1 219
+    400306: pSphere1 22
+    400308: pSphere1 220
+    400310: pSphere1 221
+    400312: pSphere1 222
+    400314: pSphere1 223
+    400316: pSphere1 224
+    400318: pSphere1 225
+    400320: pSphere1 226
+    400322: pSphere1 227
+    400324: pSphere1 228
+    400326: pSphere1 229
+    400328: pSphere1 23
+    400330: pSphere1 230
+    400332: pSphere1 231
+    400334: pSphere1 232
+    400336: pSphere1 233
+    400338: pSphere1 234
+    400340: pSphere1 235
+    400342: pSphere1 236
+    400344: pSphere1 237
+    400346: pSphere1 238
+    400348: pSphere1 239
+    400350: pSphere1 24
+    400352: pSphere1 240
+    400354: pSphere1 241
+    400356: pSphere1 242
+    400358: pSphere1 243
+    400360: pSphere1 244
+    400362: pSphere1 245
+    400364: pSphere1 246
+    400366: pSphere1 247
+    400368: pSphere1 248
+    400370: pSphere1 249
+    400372: pSphere1 25
+    400374: pSphere1 250
+    400376: pSphere1 251
+    400378: pSphere1 252
+    400380: pSphere1 253
+    400382: pSphere1 254
+    400384: pSphere1 255
+    400386: pSphere1 256
+    400388: pSphere1 257
+    400390: pSphere1 258
+    400392: pSphere1 259
+    400394: pSphere1 26
+    400396: pSphere1 260
+    400398: pSphere1 261
+    400400: pSphere1 262
+    400402: pSphere1 263
+    400404: pSphere1 264
+    400406: pSphere1 265
+    400408: pSphere1 266
+    400410: pSphere1 267
+    400412: pSphere1 268
+    400414: pSphere1 269
+    400416: pSphere1 27
+    400418: pSphere1 270
+    400420: pSphere1 271
+    400422: pSphere1 272
+    400424: pSphere1 273
+    400426: pSphere1 274
+    400428: pSphere1 275
+    400430: pSphere1 276
+    400432: pSphere1 277
+    400434: pSphere1 278
+    400436: pSphere1 279
+    400438: pSphere1 28
+    400440: pSphere1 280
+    400442: pSphere1 281
+    400444: pSphere1 282
+    400446: pSphere1 283
+    400448: pSphere1 284
+    400450: pSphere1 285
+    400452: pSphere1 286
+    400454: pSphere1 287
+    400456: pSphere1 288
+    400458: pSphere1 289
+    400460: pSphere1 29
+    400462: pSphere1 290
+    400464: pSphere1 291
+    400466: pSphere1 292
+    400468: pSphere1 293
+    400470: pSphere1 294
+    400472: pSphere1 295
+    400474: pSphere1 296
+    400476: pSphere1 297
+    400478: pSphere1 298
+    400480: pSphere1 299
+    400482: pSphere1 3
+    400484: pSphere1 30
+    400486: pSphere1 300
+    400488: pSphere1 301
+    400490: pSphere1 302
+    400492: pSphere1 303
+    400494: pSphere1 304
+    400496: pSphere1 305
+    400498: pSphere1 306
+    400500: pSphere1 307
+    400502: pSphere1 308
+    400504: pSphere1 309
+    400506: pSphere1 31
+    400508: pSphere1 310
+    400510: pSphere1 311
+    400512: pSphere1 312
+    400514: pSphere1 313
+    400516: pSphere1 314
+    400518: pSphere1 315
+    400520: pSphere1 316
+    400522: pSphere1 317
+    400524: pSphere1 318
+    400526: pSphere1 319
+    400528: pSphere1 32
+    400530: pSphere1 320
+    400532: pSphere1 321
+    400534: pSphere1 322
+    400536: pSphere1 323
+    400538: pSphere1 324
+    400540: pSphere1 325
+    400542: pSphere1 326
+    400544: pSphere1 327
+    400546: pSphere1 328
+    400548: pSphere1 329
+    400550: pSphere1 33
+    400552: pSphere1 330
+    400554: pSphere1 331
+    400556: pSphere1 332
+    400558: pSphere1 333
+    400560: pSphere1 334
+    400562: pSphere1 335
+    400564: pSphere1 336
+    400566: pSphere1 337
+    400568: pSphere1 338
+    400570: pSphere1 339
+    400572: pSphere1 34
+    400574: pSphere1 340
+    400576: pSphere1 341
+    400578: pSphere1 342
+    400580: pSphere1 343
+    400582: pSphere1 344
+    400584: pSphere1 345
+    400586: pSphere1 346
+    400588: pSphere1 347
+    400590: pSphere1 348
+    400592: pSphere1 349
+    400594: pSphere1 35
+    400596: pSphere1 350
+    400598: pSphere1 351
+    400600: pSphere1 352
+    400602: pSphere1 353
+    400604: pSphere1 354
+    400606: pSphere1 355
+    400608: pSphere1 356
+    400610: pSphere1 357
+    400612: pSphere1 358
+    400614: pSphere1 359
+    400616: pSphere1 36
+    400618: pSphere1 360
+    400620: pSphere1 361
+    400622: pSphere1 362
+    400624: pSphere1 363
+    400626: pSphere1 364
+    400628: pSphere1 365
+    400630: pSphere1 366
+    400632: pSphere1 367
+    400634: pSphere1 368
+    400636: pSphere1 369
+    400638: pSphere1 37
+    400640: pSphere1 370
+    400642: pSphere1 371
+    400644: pSphere1 372
+    400646: pSphere1 373
+    400648: pSphere1 374
+    400650: pSphere1 375
+    400652: pSphere1 376
+    400654: pSphere1 377
+    400656: pSphere1 378
+    400658: pSphere1 379
+    400660: pSphere1 38
+    400662: pSphere1 380
+    400664: pSphere1 381
+    400666: pSphere1 382
+    400668: pSphere1 383
+    400670: pSphere1 384
+    400672: pSphere1 385
+    400674: pSphere1 386
+    400676: pSphere1 387
+    400678: pSphere1 388
+    400680: pSphere1 389
+    400682: pSphere1 39
+    400684: pSphere1 390
+    400686: pSphere1 391
+    400688: pSphere1 392
+    400690: pSphere1 393
+    400692: pSphere1 394
+    400694: pSphere1 395
+    400696: pSphere1 396
+    400698: pSphere1 397
+    400700: pSphere1 398
+    400702: pSphere1 399
+    400704: pSphere1 4
+    400706: pSphere1 40
+    400708: pSphere1 400
+    400710: pSphere1 401
+    400712: pSphere1 402
+    400714: pSphere1 403
+    400716: pSphere1 404
+    400718: pSphere1 405
+    400720: pSphere1 406
+    400722: pSphere1 407
+    400724: pSphere1 408
+    400726: pSphere1 409
+    400728: pSphere1 41
+    400730: pSphere1 410
+    400732: pSphere1 411
+    400734: pSphere1 412
+    400736: pSphere1 413
+    400738: pSphere1 414
+    400740: pSphere1 415
+    400742: pSphere1 416
+    400744: pSphere1 417
+    400746: pSphere1 418
+    400748: pSphere1 419
+    400750: pSphere1 42
+    400752: pSphere1 420
+    400754: pSphere1 421
+    400756: pSphere1 422
+    400758: pSphere1 423
+    400760: pSphere1 424
+    400762: pSphere1 425
+    400764: pSphere1 426
+    400766: pSphere1 427
+    400768: pSphere1 428
+    400770: pSphere1 429
+    400772: pSphere1 43
+    400774: pSphere1 430
+    400776: pSphere1 431
+    400778: pSphere1 432
+    400780: pSphere1 433
+    400782: pSphere1 434
+    400784: pSphere1 435
+    400786: pSphere1 436
+    400788: pSphere1 437
+    400790: pSphere1 438
+    400792: pSphere1 439
+    400794: pSphere1 44
+    400796: pSphere1 440
+    400798: pSphere1 441
+    400800: pSphere1 442
+    400802: pSphere1 443
+    400804: pSphere1 444
+    400806: pSphere1 445
+    400808: pSphere1 446
+    400810: pSphere1 447
+    400812: pSphere1 448
+    400814: pSphere1 449
+    400816: pSphere1 45
+    400818: pSphere1 450
+    400820: pSphere1 451
+    400822: pSphere1 452
+    400824: pSphere1 453
+    400826: pSphere1 454
+    400828: pSphere1 455
+    400830: pSphere1 456
+    400832: pSphere1 457
+    400834: pSphere1 458
+    400836: pSphere1 459
+    400838: pSphere1 46
+    400840: pSphere1 460
+    400842: pSphere1 461
+    400844: pSphere1 462
+    400846: pSphere1 463
+    400848: pSphere1 464
+    400850: pSphere1 465
+    400852: pSphere1 466
+    400854: pSphere1 467
+    400856: pSphere1 468
+    400858: pSphere1 469
+    400860: pSphere1 47
+    400862: pSphere1 470
+    400864: pSphere1 471
+    400866: pSphere1 472
+    400868: pSphere1 473
+    400870: pSphere1 474
+    400872: pSphere1 475
+    400874: pSphere1 476
+    400876: pSphere1 477
+    400878: pSphere1 478
+    400880: pSphere1 479
+    400882: pSphere1 48
+    400884: pSphere1 480
+    400886: pSphere1 481
+    400888: pSphere1 482
+    400890: pSphere1 483
+    400892: pSphere1 484
+    400894: pSphere1 485
+    400896: pSphere1 486
+    400898: pSphere1 487
+    400900: pSphere1 488
+    400902: pSphere1 489
+    400904: pSphere1 49
+    400906: pSphere1 490
+    400908: pSphere1 491
+    400910: pSphere1 492
+    400912: pSphere1 493
+    400914: pSphere1 494
+    400916: pSphere1 495
+    400918: pSphere1 496
+    400920: pSphere1 497
+    400922: pSphere1 498
+    400924: pSphere1 499
+    400926: pSphere1 5
+    400928: pSphere1 50
+    400930: pSphere1 500
+    400932: pSphere1 51
+    400934: pSphere1 52
+    400936: pSphere1 53
+    400938: pSphere1 54
+    400940: pSphere1 55
+    400942: pSphere1 56
+    400944: pSphere1 57
+    400946: pSphere1 58
+    400948: pSphere1 59
+    400950: pSphere1 6
+    400952: pSphere1 60
+    400954: pSphere1 61
+    400956: pSphere1 62
+    400958: pSphere1 63
+    400960: pSphere1 64
+    400962: pSphere1 65
+    400964: pSphere1 66
+    400966: pSphere1 67
+    400968: pSphere1 68
+    400970: pSphere1 69
+    400972: pSphere1 7
+    400974: pSphere1 70
+    400976: pSphere1 71
+    400978: pSphere1 72
+    400980: pSphere1 73
+    400982: pSphere1 74
+    400984: pSphere1 75
+    400986: pSphere1 76
+    400988: pSphere1 77
+    400990: pSphere1 78
+    400992: pSphere1 79
+    400994: pSphere1 8
+    400996: pSphere1 80
+    400998: pSphere1 81
+    401000: pSphere1 82
+    401002: pSphere1 83
+    401004: pSphere1 84
+    401006: pSphere1 85
+    401008: pSphere1 86
+    401010: pSphere1 87
+    401012: pSphere1 88
+    401014: pSphere1 89
+    401016: pSphere1 9
+    401018: pSphere1 90
+    401020: pSphere1 91
+    401022: pSphere1 92
+    401024: pSphere1 93
+    401026: pSphere1 94
+    401028: pSphere1 95
+    401030: pSphere1 96
+    401032: pSphere1 97
+    401034: pSphere1 98
+    401036: pSphere1 99
+    401038: RING1
+    401040: RING2
+    401042: rockgroup1
+    401044: rockgroup10
+    401046: rockgroup100
+    401048: rockgroup101
+    401050: rockgroup102
+    401052: rockgroup103
+    401054: rockgroup104
+    401056: rockgroup105
+    401058: rockgroup106
+    401060: rockgroup107
+    401062: rockgroup108
+    401064: rockgroup109
+    401066: rockgroup11
+    401068: rockgroup110
+    401070: rockgroup111
+    401072: rockgroup112
+    401074: rockgroup113
+    401076: rockgroup114
+    401078: rockgroup115
+    401080: rockgroup116
+    401082: rockgroup117
+    401084: rockgroup118
+    401086: rockgroup119
+    401088: rockgroup12
+    401090: rockgroup120
+    401092: rockgroup121
+    401094: rockgroup122
+    401096: rockgroup123
+    401098: rockgroup124
+    401100: rockgroup125
+    401102: rockgroup126
+    401104: rockgroup127
+    401106: rockgroup128
+    401108: rockgroup129
+    401110: rockgroup13
+    401112: rockgroup130
+    401114: rockgroup131
+    401116: rockgroup132
+    401118: rockgroup133
+    401120: rockgroup134
+    401122: rockgroup135
+    401124: rockgroup136
+    401126: rockgroup137
+    401128: rockgroup138
+    401130: rockgroup139
+    401132: rockgroup14
+    401134: rockgroup140
+    401136: rockgroup141
+    401138: rockgroup142
+    401140: rockgroup143
+    401142: rockgroup144
+    401144: rockgroup145
+    401146: rockgroup146
+    401148: rockgroup147
+    401150: rockgroup148
+    401152: rockgroup149
+    401154: rockgroup15
+    401156: rockgroup150
+    401158: rockgroup151
+    401160: rockgroup152
+    401162: rockgroup153
+    401164: rockgroup154
+    401166: rockgroup155
+    401168: rockgroup156
+    401170: rockgroup157
+    401172: rockgroup158
+    401174: rockgroup159
+    401176: rockgroup16
+    401178: rockgroup160
+    401180: rockgroup161
+    401182: rockgroup162
+    401184: rockgroup163
+    401186: rockgroup164
+    401188: rockgroup165
+    401190: rockgroup166
+    401192: rockgroup167
+    401194: rockgroup168
+    401196: rockgroup169
+    401198: rockgroup17
+    401200: rockgroup170
+    401202: rockgroup171
+    401204: rockgroup172
+    401206: rockgroup173
+    401208: rockgroup174
+    401210: rockgroup175
+    401212: rockgroup176
+    401214: rockgroup177
+    401216: rockgroup178
+    401218: rockgroup179
+    401220: rockgroup18
+    401222: rockgroup180
+    401224: rockgroup181
+    401226: rockgroup182
+    401228: rockgroup183
+    401230: rockgroup184
+    401232: rockgroup185
+    401234: rockgroup186
+    401236: rockgroup187
+    401238: rockgroup188
+    401240: rockgroup189
+    401242: rockgroup19
+    401244: rockgroup190
+    401246: rockgroup191
+    401248: rockgroup192
+    401250: rockgroup193
+    401252: rockgroup194
+    401254: rockgroup195
+    401256: rockgroup196
+    401258: rockgroup197
+    401260: rockgroup198
+    401262: rockgroup199
+    401264: rockgroup2
+    401266: rockgroup20
+    401268: rockgroup200
+    401270: rockgroup201
+    401272: rockgroup202
+    401274: rockgroup203
+    401276: rockgroup204
+    401278: rockgroup205
+    401280: rockgroup206
+    401282: rockgroup207
+    401284: rockgroup208
+    401286: rockgroup209
+    401288: rockgroup21
+    401290: rockgroup210
+    401292: rockgroup211
+    401294: rockgroup212
+    401296: rockgroup213
+    401298: rockgroup214
+    401300: rockgroup215
+    401302: rockgroup216
+    401304: rockgroup217
+    401306: rockgroup218
+    401308: rockgroup219
+    401310: rockgroup22
+    401312: rockgroup220
+    401314: rockgroup221
+    401316: rockgroup222
+    401318: rockgroup223
+    401320: rockgroup224
+    401322: rockgroup225
+    401324: rockgroup226
+    401326: rockgroup227
+    401328: rockgroup228
+    401330: rockgroup229
+    401332: rockgroup23
+    401334: rockgroup230
+    401336: rockgroup231
+    401338: rockgroup232
+    401340: rockgroup233
+    401342: rockgroup234
+    401344: rockgroup235
+    401346: rockgroup236
+    401348: rockgroup237
+    401350: rockgroup238
+    401352: rockgroup239
+    401354: rockgroup24
+    401356: rockgroup240
+    401358: rockgroup241
+    401360: rockgroup242
+    401362: rockgroup243
+    401364: rockgroup244
+    401366: rockgroup245
+    401368: rockgroup246
+    401370: rockgroup247
+    401372: rockgroup248
+    401374: rockgroup249
+    401376: rockgroup25
+    401378: rockgroup250
+    401380: rockgroup251
+    401382: rockgroup252
+    401384: rockgroup253
+    401386: rockgroup254
+    401388: rockgroup255
+    401390: rockgroup256
+    401392: rockgroup257
+    401394: rockgroup258
+    401396: rockgroup259
+    401398: rockgroup26
+    401400: rockgroup260
+    401402: rockgroup261
+    401404: rockgroup262
+    401406: rockgroup263
+    401408: rockgroup264
+    401410: rockgroup265
+    401412: rockgroup266
+    401414: rockgroup267
+    401416: rockgroup268
+    401418: rockgroup269
+    401420: rockgroup27
+    401422: rockgroup270
+    401424: rockgroup271
+    401426: rockgroup272
+    401428: rockgroup273
+    401430: rockgroup274
+    401432: rockgroup275
+    401434: rockgroup276
+    401436: rockgroup277
+    401438: rockgroup278
+    401440: rockgroup279
+    401442: rockgroup28
+    401444: rockgroup280
+    401446: rockgroup281
+    401448: rockgroup282
+    401450: rockgroup283
+    401452: rockgroup284
+    401454: rockgroup285
+    401456: rockgroup286
+    401458: rockgroup287
+    401460: rockgroup288
+    401462: rockgroup289
+    401464: rockgroup29
+    401466: rockgroup290
+    401468: rockgroup291
+    401470: rockgroup292
+    401472: rockgroup293
+    401474: rockgroup294
+    401476: rockgroup295
+    401478: rockgroup296
+    401480: rockgroup297
+    401482: rockgroup298
+    401484: rockgroup299
+    401486: rockgroup3
+    401488: rockgroup30
+    401490: rockgroup300
+    401492: rockgroup301
+    401494: rockgroup302
+    401496: rockgroup303
+    401498: rockgroup304
+    401500: rockgroup305
+    401502: rockgroup306
+    401504: rockgroup307
+    401506: rockgroup308
+    401508: rockgroup309
+    401510: rockgroup31
+    401512: rockgroup310
+    401514: rockgroup311
+    401516: rockgroup312
+    401518: rockgroup313
+    401520: rockgroup314
+    401522: rockgroup315
+    401524: rockgroup316
+    401526: rockgroup317
+    401528: rockgroup318
+    401530: rockgroup319
+    401532: rockgroup32
+    401534: rockgroup320
+    401536: rockgroup321
+    401538: rockgroup322
+    401540: rockgroup323
+    401542: rockgroup324
+    401544: rockgroup325
+    401546: rockgroup326
+    401548: rockgroup327
+    401550: rockgroup328
+    401552: rockgroup329
+    401554: rockgroup33
+    401556: rockgroup330
+    401558: rockgroup331
+    401560: rockgroup332
+    401562: rockgroup333
+    401564: rockgroup334
+    401566: rockgroup335
+    401568: rockgroup336
+    401570: rockgroup337
+    401572: rockgroup338
+    401574: rockgroup339
+    401576: rockgroup34
+    401578: rockgroup340
+    401580: rockgroup341
+    401582: rockgroup342
+    401584: rockgroup343
+    401586: rockgroup344
+    401588: rockgroup345
+    401590: rockgroup346
+    401592: rockgroup347
+    401594: rockgroup348
+    401596: rockgroup349
+    401598: rockgroup35
+    401600: rockgroup350
+    401602: rockgroup351
+    401604: rockgroup352
+    401606: rockgroup353
+    401608: rockgroup354
+    401610: rockgroup355
+    401612: rockgroup356
+    401614: rockgroup357
+    401616: rockgroup358
+    401618: rockgroup359
+    401620: rockgroup36
+    401622: rockgroup360
+    401624: rockgroup361
+    401626: rockgroup362
+    401628: rockgroup363
+    401630: rockgroup364
+    401632: rockgroup365
+    401634: rockgroup366
+    401636: rockgroup367
+    401638: rockgroup368
+    401640: rockgroup369
+    401642: rockgroup37
+    401644: rockgroup370
+    401646: rockgroup371
+    401648: rockgroup372
+    401650: rockgroup373
+    401652: rockgroup374
+    401654: rockgroup375
+    401656: rockgroup376
+    401658: rockgroup377
+    401660: rockgroup378
+    401662: rockgroup379
+    401664: rockgroup38
+    401666: rockgroup380
+    401668: rockgroup381
+    401670: rockgroup382
+    401672: rockgroup383
+    401674: rockgroup384
+    401676: rockgroup385
+    401678: rockgroup386
+    401680: rockgroup387
+    401682: rockgroup388
+    401684: rockgroup389
+    401686: rockgroup39
+    401688: rockgroup390
+    401690: rockgroup391
+    401692: rockgroup392
+    401694: rockgroup393
+    401696: rockgroup394
+    401698: rockgroup395
+    401700: rockgroup396
+    401702: rockgroup397
+    401704: rockgroup398
+    401706: rockgroup399
+    401708: rockgroup4
+    401710: rockgroup40
+    401712: rockgroup400
+    401714: rockgroup401
+    401716: rockgroup402
+    401718: rockgroup403
+    401720: rockgroup404
+    401722: rockgroup405
+    401724: rockgroup406
+    401726: rockgroup407
+    401728: rockgroup408
+    401730: rockgroup409
+    401732: rockgroup41
+    401734: rockgroup410
+    401736: rockgroup411
+    401738: rockgroup412
+    401740: rockgroup413
+    401742: rockgroup414
+    401744: rockgroup415
+    401746: rockgroup416
+    401748: rockgroup417
+    401750: rockgroup418
+    401752: rockgroup419
+    401754: rockgroup42
+    401756: rockgroup420
+    401758: rockgroup421
+    401760: rockgroup422
+    401762: rockgroup423
+    401764: rockgroup424
+    401766: rockgroup425
+    401768: rockgroup426
+    401770: rockgroup427
+    401772: rockgroup428
+    401774: rockgroup429
+    401776: rockgroup43
+    401778: rockgroup430
+    401780: rockgroup431
+    401782: rockgroup432
+    401784: rockgroup433
+    401786: rockgroup434
+    401788: rockgroup435
+    401790: rockgroup436
+    401792: rockgroup437
+    401794: rockgroup438
+    401796: rockgroup439
+    401798: rockgroup44
+    401800: rockgroup440
+    401802: rockgroup441
+    401804: rockgroup442
+    401806: rockgroup443
+    401808: rockgroup444
+    401810: rockgroup445
+    401812: rockgroup446
+    401814: rockgroup447
+    401816: rockgroup448
+    401818: rockgroup449
+    401820: rockgroup45
+    401822: rockgroup450
+    401824: rockgroup451
+    401826: rockgroup452
+    401828: rockgroup453
+    401830: rockgroup454
+    401832: rockgroup455
+    401834: rockgroup456
+    401836: rockgroup457
+    401838: rockgroup458
+    401840: rockgroup459
+    401842: rockgroup46
+    401844: rockgroup460
+    401846: rockgroup461
+    401848: rockgroup462
+    401850: rockgroup463
+    401852: rockgroup464
+    401854: rockgroup465
+    401856: rockgroup466
+    401858: rockgroup467
+    401860: rockgroup468
+    401862: rockgroup469
+    401864: rockgroup47
+    401866: rockgroup470
+    401868: rockgroup471
+    401870: rockgroup472
+    401872: rockgroup473
+    401874: rockgroup474
+    401876: rockgroup475
+    401878: rockgroup476
+    401880: rockgroup477
+    401882: rockgroup478
+    401884: rockgroup479
+    401886: rockgroup48
+    401888: rockgroup480
+    401890: rockgroup481
+    401892: rockgroup482
+    401894: rockgroup483
+    401896: rockgroup484
+    401898: rockgroup485
+    401900: rockgroup486
+    401902: rockgroup487
+    401904: rockgroup488
+    401906: rockgroup489
+    401908: rockgroup49
+    401910: rockgroup490
+    401912: rockgroup491
+    401914: rockgroup492
+    401916: rockgroup493
+    401918: rockgroup494
+    401920: rockgroup495
+    401922: rockgroup496
+    401924: rockgroup497
+    401926: rockgroup498
+    401928: rockgroup499
+    401930: rockgroup5
+    401932: rockgroup50
+    401934: rockgroup500
+    401936: rockgroup501
+    401938: rockgroup51
+    401940: rockgroup52
+    401942: rockgroup53
+    401944: rockgroup54
+    401946: rockgroup55
+    401948: rockgroup56
+    401950: rockgroup57
+    401952: rockgroup58
+    401954: rockgroup59
+    401956: rockgroup6
+    401958: rockgroup60
+    401960: rockgroup61
+    401962: rockgroup62
+    401964: rockgroup63
+    401966: rockgroup64
+    401968: rockgroup65
+    401970: rockgroup66
+    401972: rockgroup67
+    401974: rockgroup68
+    401976: rockgroup69
+    401978: rockgroup7
+    401980: rockgroup70
+    401982: rockgroup71
+    401984: rockgroup72
+    401986: rockgroup73
+    401988: rockgroup74
+    401990: rockgroup75
+    401992: rockgroup76
+    401994: rockgroup77
+    401996: rockgroup78
+    401998: rockgroup79
+    402000: rockgroup8
+    402002: rockgroup80
+    402004: rockgroup81
+    402006: rockgroup82
+    402008: rockgroup83
+    402010: rockgroup84
+    402012: rockgroup85
+    402014: rockgroup86
+    402016: rockgroup87
+    402018: rockgroup88
+    402020: rockgroup89
+    402022: rockgroup9
+    402024: rockgroup90
+    402026: rockgroup91
+    402028: rockgroup92
+    402030: rockgroup93
+    402032: rockgroup94
+    402034: rockgroup95
+    402036: rockgroup96
+    402038: rockgroup97
+    402040: rockgroup98
+    402042: rockgroup99
+    402044: //RootNode
+    402046: STARUN
+    402048: SUN
+    402050: URANUS
+    402052: VENUS
+    2300000: EARTH
+    2300002: JUPITER
+    2300004: MARS
+    2300006: MERCURY
+    2300008: MOON_EARTH
+    2300010: NEPTUNE
+    2300012: PLUTO
+    2300014: pSphere1
+    2300016: pSphere1 1
+    2300018: pSphere1 10
+    2300020: pSphere1 100
+    2300022: pSphere1 101
+    2300024: pSphere1 102
+    2300026: pSphere1 103
+    2300028: pSphere1 104
+    2300030: pSphere1 105
+    2300032: pSphere1 106
+    2300034: pSphere1 107
+    2300036: pSphere1 108
+    2300038: pSphere1 109
+    2300040: pSphere1 11
+    2300042: pSphere1 110
+    2300044: pSphere1 111
+    2300046: pSphere1 112
+    2300048: pSphere1 113
+    2300050: pSphere1 114
+    2300052: pSphere1 115
+    2300054: pSphere1 116
+    2300056: pSphere1 117
+    2300058: pSphere1 118
+    2300060: pSphere1 119
+    2300062: pSphere1 12
+    2300064: pSphere1 120
+    2300066: pSphere1 121
+    2300068: pSphere1 122
+    2300070: pSphere1 123
+    2300072: pSphere1 124
+    2300074: pSphere1 125
+    2300076: pSphere1 126
+    2300078: pSphere1 127
+    2300080: pSphere1 128
+    2300082: pSphere1 129
+    2300084: pSphere1 13
+    2300086: pSphere1 130
+    2300088: pSphere1 131
+    2300090: pSphere1 132
+    2300092: pSphere1 133
+    2300094: pSphere1 134
+    2300096: pSphere1 135
+    2300098: pSphere1 136
+    2300100: pSphere1 137
+    2300102: pSphere1 138
+    2300104: pSphere1 139
+    2300106: pSphere1 14
+    2300108: pSphere1 140
+    2300110: pSphere1 141
+    2300112: pSphere1 142
+    2300114: pSphere1 143
+    2300116: pSphere1 144
+    2300118: pSphere1 145
+    2300120: pSphere1 146
+    2300122: pSphere1 147
+    2300124: pSphere1 148
+    2300126: pSphere1 149
+    2300128: pSphere1 15
+    2300130: pSphere1 150
+    2300132: pSphere1 151
+    2300134: pSphere1 152
+    2300136: pSphere1 153
+    2300138: pSphere1 154
+    2300140: pSphere1 155
+    2300142: pSphere1 156
+    2300144: pSphere1 157
+    2300146: pSphere1 158
+    2300148: pSphere1 159
+    2300150: pSphere1 16
+    2300152: pSphere1 160
+    2300154: pSphere1 161
+    2300156: pSphere1 162
+    2300158: pSphere1 163
+    2300160: pSphere1 164
+    2300162: pSphere1 165
+    2300164: pSphere1 166
+    2300166: pSphere1 167
+    2300168: pSphere1 168
+    2300170: pSphere1 169
+    2300172: pSphere1 17
+    2300174: pSphere1 170
+    2300176: pSphere1 171
+    2300178: pSphere1 172
+    2300180: pSphere1 173
+    2300182: pSphere1 174
+    2300184: pSphere1 175
+    2300186: pSphere1 176
+    2300188: pSphere1 177
+    2300190: pSphere1 178
+    2300192: pSphere1 179
+    2300194: pSphere1 18
+    2300196: pSphere1 180
+    2300198: pSphere1 181
+    2300200: pSphere1 182
+    2300202: pSphere1 183
+    2300204: pSphere1 184
+    2300206: pSphere1 185
+    2300208: pSphere1 186
+    2300210: pSphere1 187
+    2300212: pSphere1 188
+    2300214: pSphere1 189
+    2300216: pSphere1 19
+    2300218: pSphere1 190
+    2300220: pSphere1 191
+    2300222: pSphere1 192
+    2300224: pSphere1 193
+    2300226: pSphere1 194
+    2300228: pSphere1 195
+    2300230: pSphere1 196
+    2300232: pSphere1 197
+    2300234: pSphere1 198
+    2300236: pSphere1 199
+    2300238: pSphere1 2
+    2300240: pSphere1 20
+    2300242: pSphere1 200
+    2300244: pSphere1 201
+    2300246: pSphere1 202
+    2300248: pSphere1 203
+    2300250: pSphere1 204
+    2300252: pSphere1 205
+    2300254: pSphere1 206
+    2300256: pSphere1 207
+    2300258: pSphere1 208
+    2300260: pSphere1 209
+    2300262: pSphere1 21
+    2300264: pSphere1 210
+    2300266: pSphere1 211
+    2300268: pSphere1 212
+    2300270: pSphere1 213
+    2300272: pSphere1 214
+    2300274: pSphere1 215
+    2300276: pSphere1 216
+    2300278: pSphere1 217
+    2300280: pSphere1 218
+    2300282: pSphere1 219
+    2300284: pSphere1 22
+    2300286: pSphere1 220
+    2300288: pSphere1 221
+    2300290: pSphere1 222
+    2300292: pSphere1 223
+    2300294: pSphere1 224
+    2300296: pSphere1 225
+    2300298: pSphere1 226
+    2300300: pSphere1 227
+    2300302: pSphere1 228
+    2300304: pSphere1 229
+    2300306: pSphere1 23
+    2300308: pSphere1 230
+    2300310: pSphere1 231
+    2300312: pSphere1 232
+    2300314: pSphere1 233
+    2300316: pSphere1 234
+    2300318: pSphere1 235
+    2300320: pSphere1 236
+    2300322: pSphere1 237
+    2300324: pSphere1 238
+    2300326: pSphere1 239
+    2300328: pSphere1 24
+    2300330: pSphere1 240
+    2300332: pSphere1 241
+    2300334: pSphere1 242
+    2300336: pSphere1 243
+    2300338: pSphere1 244
+    2300340: pSphere1 245
+    2300342: pSphere1 246
+    2300344: pSphere1 247
+    2300346: pSphere1 248
+    2300348: pSphere1 249
+    2300350: pSphere1 25
+    2300352: pSphere1 250
+    2300354: pSphere1 251
+    2300356: pSphere1 252
+    2300358: pSphere1 253
+    2300360: pSphere1 254
+    2300362: pSphere1 255
+    2300364: pSphere1 256
+    2300366: pSphere1 257
+    2300368: pSphere1 258
+    2300370: pSphere1 259
+    2300372: pSphere1 26
+    2300374: pSphere1 260
+    2300376: pSphere1 261
+    2300378: pSphere1 262
+    2300380: pSphere1 263
+    2300382: pSphere1 264
+    2300384: pSphere1 265
+    2300386: pSphere1 266
+    2300388: pSphere1 267
+    2300390: pSphere1 268
+    2300392: pSphere1 269
+    2300394: pSphere1 27
+    2300396: pSphere1 270
+    2300398: pSphere1 271
+    2300400: pSphere1 272
+    2300402: pSphere1 273
+    2300404: pSphere1 274
+    2300406: pSphere1 275
+    2300408: pSphere1 276
+    2300410: pSphere1 277
+    2300412: pSphere1 278
+    2300414: pSphere1 279
+    2300416: pSphere1 28
+    2300418: pSphere1 280
+    2300420: pSphere1 281
+    2300422: pSphere1 282
+    2300424: pSphere1 283
+    2300426: pSphere1 284
+    2300428: pSphere1 285
+    2300430: pSphere1 286
+    2300432: pSphere1 287
+    2300434: pSphere1 288
+    2300436: pSphere1 289
+    2300438: pSphere1 29
+    2300440: pSphere1 290
+    2300442: pSphere1 291
+    2300444: pSphere1 292
+    2300446: pSphere1 293
+    2300448: pSphere1 294
+    2300450: pSphere1 295
+    2300452: pSphere1 296
+    2300454: pSphere1 297
+    2300456: pSphere1 298
+    2300458: pSphere1 299
+    2300460: pSphere1 3
+    2300462: pSphere1 30
+    2300464: pSphere1 300
+    2300466: pSphere1 301
+    2300468: pSphere1 302
+    2300470: pSphere1 303
+    2300472: pSphere1 304
+    2300474: pSphere1 305
+    2300476: pSphere1 306
+    2300478: pSphere1 307
+    2300480: pSphere1 308
+    2300482: pSphere1 309
+    2300484: pSphere1 31
+    2300486: pSphere1 310
+    2300488: pSphere1 311
+    2300490: pSphere1 312
+    2300492: pSphere1 313
+    2300494: pSphere1 314
+    2300496: pSphere1 315
+    2300498: pSphere1 316
+    2300500: pSphere1 317
+    2300502: pSphere1 318
+    2300504: pSphere1 319
+    2300506: pSphere1 32
+    2300508: pSphere1 320
+    2300510: pSphere1 321
+    2300512: pSphere1 322
+    2300514: pSphere1 323
+    2300516: pSphere1 324
+    2300518: pSphere1 325
+    2300520: pSphere1 326
+    2300522: pSphere1 327
+    2300524: pSphere1 328
+    2300526: pSphere1 329
+    2300528: pSphere1 33
+    2300530: pSphere1 330
+    2300532: pSphere1 331
+    2300534: pSphere1 332
+    2300536: pSphere1 333
+    2300538: pSphere1 334
+    2300540: pSphere1 335
+    2300542: pSphere1 336
+    2300544: pSphere1 337
+    2300546: pSphere1 338
+    2300548: pSphere1 339
+    2300550: pSphere1 34
+    2300552: pSphere1 340
+    2300554: pSphere1 341
+    2300556: pSphere1 342
+    2300558: pSphere1 343
+    2300560: pSphere1 344
+    2300562: pSphere1 345
+    2300564: pSphere1 346
+    2300566: pSphere1 347
+    2300568: pSphere1 348
+    2300570: pSphere1 349
+    2300572: pSphere1 35
+    2300574: pSphere1 350
+    2300576: pSphere1 351
+    2300578: pSphere1 352
+    2300580: pSphere1 353
+    2300582: pSphere1 354
+    2300584: pSphere1 355
+    2300586: pSphere1 356
+    2300588: pSphere1 357
+    2300590: pSphere1 358
+    2300592: pSphere1 359
+    2300594: pSphere1 36
+    2300596: pSphere1 360
+    2300598: pSphere1 361
+    2300600: pSphere1 362
+    2300602: pSphere1 363
+    2300604: pSphere1 364
+    2300606: pSphere1 365
+    2300608: pSphere1 366
+    2300610: pSphere1 367
+    2300612: pSphere1 368
+    2300614: pSphere1 369
+    2300616: pSphere1 37
+    2300618: pSphere1 370
+    2300620: pSphere1 371
+    2300622: pSphere1 372
+    2300624: pSphere1 373
+    2300626: pSphere1 374
+    2300628: pSphere1 375
+    2300630: pSphere1 376
+    2300632: pSphere1 377
+    2300634: pSphere1 378
+    2300636: pSphere1 379
+    2300638: pSphere1 38
+    2300640: pSphere1 380
+    2300642: pSphere1 381
+    2300644: pSphere1 382
+    2300646: pSphere1 383
+    2300648: pSphere1 384
+    2300650: pSphere1 385
+    2300652: pSphere1 386
+    2300654: pSphere1 387
+    2300656: pSphere1 388
+    2300658: pSphere1 389
+    2300660: pSphere1 39
+    2300662: pSphere1 390
+    2300664: pSphere1 391
+    2300666: pSphere1 392
+    2300668: pSphere1 393
+    2300670: pSphere1 394
+    2300672: pSphere1 395
+    2300674: pSphere1 396
+    2300676: pSphere1 397
+    2300678: pSphere1 398
+    2300680: pSphere1 399
+    2300682: pSphere1 4
+    2300684: pSphere1 40
+    2300686: pSphere1 400
+    2300688: pSphere1 401
+    2300690: pSphere1 402
+    2300692: pSphere1 403
+    2300694: pSphere1 404
+    2300696: pSphere1 405
+    2300698: pSphere1 406
+    2300700: pSphere1 407
+    2300702: pSphere1 408
+    2300704: pSphere1 409
+    2300706: pSphere1 41
+    2300708: pSphere1 410
+    2300710: pSphere1 411
+    2300712: pSphere1 412
+    2300714: pSphere1 413
+    2300716: pSphere1 414
+    2300718: pSphere1 415
+    2300720: pSphere1 416
+    2300722: pSphere1 417
+    2300724: pSphere1 418
+    2300726: pSphere1 419
+    2300728: pSphere1 42
+    2300730: pSphere1 420
+    2300732: pSphere1 421
+    2300734: pSphere1 422
+    2300736: pSphere1 423
+    2300738: pSphere1 424
+    2300740: pSphere1 425
+    2300742: pSphere1 426
+    2300744: pSphere1 427
+    2300746: pSphere1 428
+    2300748: pSphere1 429
+    2300750: pSphere1 43
+    2300752: pSphere1 430
+    2300754: pSphere1 431
+    2300756: pSphere1 432
+    2300758: pSphere1 433
+    2300760: pSphere1 434
+    2300762: pSphere1 435
+    2300764: pSphere1 436
+    2300766: pSphere1 437
+    2300768: pSphere1 438
+    2300770: pSphere1 439
+    2300772: pSphere1 44
+    2300774: pSphere1 440
+    2300776: pSphere1 441
+    2300778: pSphere1 442
+    2300780: pSphere1 443
+    2300782: pSphere1 444
+    2300784: pSphere1 445
+    2300786: pSphere1 446
+    2300788: pSphere1 447
+    2300790: pSphere1 448
+    2300792: pSphere1 449
+    2300794: pSphere1 45
+    2300796: pSphere1 450
+    2300798: pSphere1 451
+    2300800: pSphere1 452
+    2300802: pSphere1 453
+    2300804: pSphere1 454
+    2300806: pSphere1 455
+    2300808: pSphere1 456
+    2300810: pSphere1 457
+    2300812: pSphere1 458
+    2300814: pSphere1 459
+    2300816: pSphere1 46
+    2300818: pSphere1 460
+    2300820: pSphere1 461
+    2300822: pSphere1 462
+    2300824: pSphere1 463
+    2300826: pSphere1 464
+    2300828: pSphere1 465
+    2300830: pSphere1 466
+    2300832: pSphere1 467
+    2300834: pSphere1 468
+    2300836: pSphere1 469
+    2300838: pSphere1 47
+    2300840: pSphere1 470
+    2300842: pSphere1 471
+    2300844: pSphere1 472
+    2300846: pSphere1 473
+    2300848: pSphere1 474
+    2300850: pSphere1 475
+    2300852: pSphere1 476
+    2300854: pSphere1 477
+    2300856: pSphere1 478
+    2300858: pSphere1 479
+    2300860: pSphere1 48
+    2300862: pSphere1 480
+    2300864: pSphere1 481
+    2300866: pSphere1 482
+    2300868: pSphere1 483
+    2300870: pSphere1 484
+    2300872: pSphere1 485
+    2300874: pSphere1 486
+    2300876: pSphere1 487
+    2300878: pSphere1 488
+    2300880: pSphere1 489
+    2300882: pSphere1 49
+    2300884: pSphere1 490
+    2300886: pSphere1 491
+    2300888: pSphere1 492
+    2300890: pSphere1 493
+    2300892: pSphere1 494
+    2300894: pSphere1 495
+    2300896: pSphere1 496
+    2300898: pSphere1 497
+    2300900: pSphere1 498
+    2300902: pSphere1 499
+    2300904: pSphere1 5
+    2300906: pSphere1 50
+    2300908: pSphere1 500
+    2300910: pSphere1 51
+    2300912: pSphere1 52
+    2300914: pSphere1 53
+    2300916: pSphere1 54
+    2300918: pSphere1 55
+    2300920: pSphere1 56
+    2300922: pSphere1 57
+    2300924: pSphere1 58
+    2300926: pSphere1 59
+    2300928: pSphere1 6
+    2300930: pSphere1 60
+    2300932: pSphere1 61
+    2300934: pSphere1 62
+    2300936: pSphere1 63
+    2300938: pSphere1 64
+    2300940: pSphere1 65
+    2300942: pSphere1 66
+    2300944: pSphere1 67
+    2300946: pSphere1 68
+    2300948: pSphere1 69
+    2300950: pSphere1 7
+    2300952: pSphere1 70
+    2300954: pSphere1 71
+    2300956: pSphere1 72
+    2300958: pSphere1 73
+    2300960: pSphere1 74
+    2300962: pSphere1 75
+    2300964: pSphere1 76
+    2300966: pSphere1 77
+    2300968: pSphere1 78
+    2300970: pSphere1 79
+    2300972: pSphere1 8
+    2300974: pSphere1 80
+    2300976: pSphere1 81
+    2300978: pSphere1 82
+    2300980: pSphere1 83
+    2300982: pSphere1 84
+    2300984: pSphere1 85
+    2300986: pSphere1 86
+    2300988: pSphere1 87
+    2300990: pSphere1 88
+    2300992: pSphere1 89
+    2300994: pSphere1 9
+    2300996: pSphere1 90
+    2300998: pSphere1 91
+    2301000: pSphere1 92
+    2301002: pSphere1 93
+    2301004: pSphere1 94
+    2301006: pSphere1 95
+    2301008: pSphere1 96
+    2301010: pSphere1 97
+    2301012: pSphere1 98
+    2301014: pSphere1 99
+    2301016: RING1
+    2301018: RING2
+    2301020: STARUN
+    2301022: SUN
+    2301024: URANUS
+    2301026: VENUS
+    3300000: EARTH
+    3300002: JUPITER
+    3300004: MARS
+    3300006: MERCURY
+    3300008: MOON_EARTH
+    3300010: NEPTUNE
+    3300012: PLUTO
+    3300014: pSphere1
+    3300016: pSphere1 1
+    3300018: pSphere1 10
+    3300020: pSphere1 100
+    3300022: pSphere1 101
+    3300024: pSphere1 102
+    3300026: pSphere1 103
+    3300028: pSphere1 104
+    3300030: pSphere1 105
+    3300032: pSphere1 106
+    3300034: pSphere1 107
+    3300036: pSphere1 108
+    3300038: pSphere1 109
+    3300040: pSphere1 11
+    3300042: pSphere1 110
+    3300044: pSphere1 111
+    3300046: pSphere1 112
+    3300048: pSphere1 113
+    3300050: pSphere1 114
+    3300052: pSphere1 115
+    3300054: pSphere1 116
+    3300056: pSphere1 117
+    3300058: pSphere1 118
+    3300060: pSphere1 119
+    3300062: pSphere1 12
+    3300064: pSphere1 120
+    3300066: pSphere1 121
+    3300068: pSphere1 122
+    3300070: pSphere1 123
+    3300072: pSphere1 124
+    3300074: pSphere1 125
+    3300076: pSphere1 126
+    3300078: pSphere1 127
+    3300080: pSphere1 128
+    3300082: pSphere1 129
+    3300084: pSphere1 13
+    3300086: pSphere1 130
+    3300088: pSphere1 131
+    3300090: pSphere1 132
+    3300092: pSphere1 133
+    3300094: pSphere1 134
+    3300096: pSphere1 135
+    3300098: pSphere1 136
+    3300100: pSphere1 137
+    3300102: pSphere1 138
+    3300104: pSphere1 139
+    3300106: pSphere1 14
+    3300108: pSphere1 140
+    3300110: pSphere1 141
+    3300112: pSphere1 142
+    3300114: pSphere1 143
+    3300116: pSphere1 144
+    3300118: pSphere1 145
+    3300120: pSphere1 146
+    3300122: pSphere1 147
+    3300124: pSphere1 148
+    3300126: pSphere1 149
+    3300128: pSphere1 15
+    3300130: pSphere1 150
+    3300132: pSphere1 151
+    3300134: pSphere1 152
+    3300136: pSphere1 153
+    3300138: pSphere1 154
+    3300140: pSphere1 155
+    3300142: pSphere1 156
+    3300144: pSphere1 157
+    3300146: pSphere1 158
+    3300148: pSphere1 159
+    3300150: pSphere1 16
+    3300152: pSphere1 160
+    3300154: pSphere1 161
+    3300156: pSphere1 162
+    3300158: pSphere1 163
+    3300160: pSphere1 164
+    3300162: pSphere1 165
+    3300164: pSphere1 166
+    3300166: pSphere1 167
+    3300168: pSphere1 168
+    3300170: pSphere1 169
+    3300172: pSphere1 17
+    3300174: pSphere1 170
+    3300176: pSphere1 171
+    3300178: pSphere1 172
+    3300180: pSphere1 173
+    3300182: pSphere1 174
+    3300184: pSphere1 175
+    3300186: pSphere1 176
+    3300188: pSphere1 177
+    3300190: pSphere1 178
+    3300192: pSphere1 179
+    3300194: pSphere1 18
+    3300196: pSphere1 180
+    3300198: pSphere1 181
+    3300200: pSphere1 182
+    3300202: pSphere1 183
+    3300204: pSphere1 184
+    3300206: pSphere1 185
+    3300208: pSphere1 186
+    3300210: pSphere1 187
+    3300212: pSphere1 188
+    3300214: pSphere1 189
+    3300216: pSphere1 19
+    3300218: pSphere1 190
+    3300220: pSphere1 191
+    3300222: pSphere1 192
+    3300224: pSphere1 193
+    3300226: pSphere1 194
+    3300228: pSphere1 195
+    3300230: pSphere1 196
+    3300232: pSphere1 197
+    3300234: pSphere1 198
+    3300236: pSphere1 199
+    3300238: pSphere1 2
+    3300240: pSphere1 20
+    3300242: pSphere1 200
+    3300244: pSphere1 201
+    3300246: pSphere1 202
+    3300248: pSphere1 203
+    3300250: pSphere1 204
+    3300252: pSphere1 205
+    3300254: pSphere1 206
+    3300256: pSphere1 207
+    3300258: pSphere1 208
+    3300260: pSphere1 209
+    3300262: pSphere1 21
+    3300264: pSphere1 210
+    3300266: pSphere1 211
+    3300268: pSphere1 212
+    3300270: pSphere1 213
+    3300272: pSphere1 214
+    3300274: pSphere1 215
+    3300276: pSphere1 216
+    3300278: pSphere1 217
+    3300280: pSphere1 218
+    3300282: pSphere1 219
+    3300284: pSphere1 22
+    3300286: pSphere1 220
+    3300288: pSphere1 221
+    3300290: pSphere1 222
+    3300292: pSphere1 223
+    3300294: pSphere1 224
+    3300296: pSphere1 225
+    3300298: pSphere1 226
+    3300300: pSphere1 227
+    3300302: pSphere1 228
+    3300304: pSphere1 229
+    3300306: pSphere1 23
+    3300308: pSphere1 230
+    3300310: pSphere1 231
+    3300312: pSphere1 232
+    3300314: pSphere1 233
+    3300316: pSphere1 234
+    3300318: pSphere1 235
+    3300320: pSphere1 236
+    3300322: pSphere1 237
+    3300324: pSphere1 238
+    3300326: pSphere1 239
+    3300328: pSphere1 24
+    3300330: pSphere1 240
+    3300332: pSphere1 241
+    3300334: pSphere1 242
+    3300336: pSphere1 243
+    3300338: pSphere1 244
+    3300340: pSphere1 245
+    3300342: pSphere1 246
+    3300344: pSphere1 247
+    3300346: pSphere1 248
+    3300348: pSphere1 249
+    3300350: pSphere1 25
+    3300352: pSphere1 250
+    3300354: pSphere1 251
+    3300356: pSphere1 252
+    3300358: pSphere1 253
+    3300360: pSphere1 254
+    3300362: pSphere1 255
+    3300364: pSphere1 256
+    3300366: pSphere1 257
+    3300368: pSphere1 258
+    3300370: pSphere1 259
+    3300372: pSphere1 26
+    3300374: pSphere1 260
+    3300376: pSphere1 261
+    3300378: pSphere1 262
+    3300380: pSphere1 263
+    3300382: pSphere1 264
+    3300384: pSphere1 265
+    3300386: pSphere1 266
+    3300388: pSphere1 267
+    3300390: pSphere1 268
+    3300392: pSphere1 269
+    3300394: pSphere1 27
+    3300396: pSphere1 270
+    3300398: pSphere1 271
+    3300400: pSphere1 272
+    3300402: pSphere1 273
+    3300404: pSphere1 274
+    3300406: pSphere1 275
+    3300408: pSphere1 276
+    3300410: pSphere1 277
+    3300412: pSphere1 278
+    3300414: pSphere1 279
+    3300416: pSphere1 28
+    3300418: pSphere1 280
+    3300420: pSphere1 281
+    3300422: pSphere1 282
+    3300424: pSphere1 283
+    3300426: pSphere1 284
+    3300428: pSphere1 285
+    3300430: pSphere1 286
+    3300432: pSphere1 287
+    3300434: pSphere1 288
+    3300436: pSphere1 289
+    3300438: pSphere1 29
+    3300440: pSphere1 290
+    3300442: pSphere1 291
+    3300444: pSphere1 292
+    3300446: pSphere1 293
+    3300448: pSphere1 294
+    3300450: pSphere1 295
+    3300452: pSphere1 296
+    3300454: pSphere1 297
+    3300456: pSphere1 298
+    3300458: pSphere1 299
+    3300460: pSphere1 3
+    3300462: pSphere1 30
+    3300464: pSphere1 300
+    3300466: pSphere1 301
+    3300468: pSphere1 302
+    3300470: pSphere1 303
+    3300472: pSphere1 304
+    3300474: pSphere1 305
+    3300476: pSphere1 306
+    3300478: pSphere1 307
+    3300480: pSphere1 308
+    3300482: pSphere1 309
+    3300484: pSphere1 31
+    3300486: pSphere1 310
+    3300488: pSphere1 311
+    3300490: pSphere1 312
+    3300492: pSphere1 313
+    3300494: pSphere1 314
+    3300496: pSphere1 315
+    3300498: pSphere1 316
+    3300500: pSphere1 317
+    3300502: pSphere1 318
+    3300504: pSphere1 319
+    3300506: pSphere1 32
+    3300508: pSphere1 320
+    3300510: pSphere1 321
+    3300512: pSphere1 322
+    3300514: pSphere1 323
+    3300516: pSphere1 324
+    3300518: pSphere1 325
+    3300520: pSphere1 326
+    3300522: pSphere1 327
+    3300524: pSphere1 328
+    3300526: pSphere1 329
+    3300528: pSphere1 33
+    3300530: pSphere1 330
+    3300532: pSphere1 331
+    3300534: pSphere1 332
+    3300536: pSphere1 333
+    3300538: pSphere1 334
+    3300540: pSphere1 335
+    3300542: pSphere1 336
+    3300544: pSphere1 337
+    3300546: pSphere1 338
+    3300548: pSphere1 339
+    3300550: pSphere1 34
+    3300552: pSphere1 340
+    3300554: pSphere1 341
+    3300556: pSphere1 342
+    3300558: pSphere1 343
+    3300560: pSphere1 344
+    3300562: pSphere1 345
+    3300564: pSphere1 346
+    3300566: pSphere1 347
+    3300568: pSphere1 348
+    3300570: pSphere1 349
+    3300572: pSphere1 35
+    3300574: pSphere1 350
+    3300576: pSphere1 351
+    3300578: pSphere1 352
+    3300580: pSphere1 353
+    3300582: pSphere1 354
+    3300584: pSphere1 355
+    3300586: pSphere1 356
+    3300588: pSphere1 357
+    3300590: pSphere1 358
+    3300592: pSphere1 359
+    3300594: pSphere1 36
+    3300596: pSphere1 360
+    3300598: pSphere1 361
+    3300600: pSphere1 362
+    3300602: pSphere1 363
+    3300604: pSphere1 364
+    3300606: pSphere1 365
+    3300608: pSphere1 366
+    3300610: pSphere1 367
+    3300612: pSphere1 368
+    3300614: pSphere1 369
+    3300616: pSphere1 37
+    3300618: pSphere1 370
+    3300620: pSphere1 371
+    3300622: pSphere1 372
+    3300624: pSphere1 373
+    3300626: pSphere1 374
+    3300628: pSphere1 375
+    3300630: pSphere1 376
+    3300632: pSphere1 377
+    3300634: pSphere1 378
+    3300636: pSphere1 379
+    3300638: pSphere1 38
+    3300640: pSphere1 380
+    3300642: pSphere1 381
+    3300644: pSphere1 382
+    3300646: pSphere1 383
+    3300648: pSphere1 384
+    3300650: pSphere1 385
+    3300652: pSphere1 386
+    3300654: pSphere1 387
+    3300656: pSphere1 388
+    3300658: pSphere1 389
+    3300660: pSphere1 39
+    3300662: pSphere1 390
+    3300664: pSphere1 391
+    3300666: pSphere1 392
+    3300668: pSphere1 393
+    3300670: pSphere1 394
+    3300672: pSphere1 395
+    3300674: pSphere1 396
+    3300676: pSphere1 397
+    3300678: pSphere1 398
+    3300680: pSphere1 399
+    3300682: pSphere1 4
+    3300684: pSphere1 40
+    3300686: pSphere1 400
+    3300688: pSphere1 401
+    3300690: pSphere1 402
+    3300692: pSphere1 403
+    3300694: pSphere1 404
+    3300696: pSphere1 405
+    3300698: pSphere1 406
+    3300700: pSphere1 407
+    3300702: pSphere1 408
+    3300704: pSphere1 409
+    3300706: pSphere1 41
+    3300708: pSphere1 410
+    3300710: pSphere1 411
+    3300712: pSphere1 412
+    3300714: pSphere1 413
+    3300716: pSphere1 414
+    3300718: pSphere1 415
+    3300720: pSphere1 416
+    3300722: pSphere1 417
+    3300724: pSphere1 418
+    3300726: pSphere1 419
+    3300728: pSphere1 42
+    3300730: pSphere1 420
+    3300732: pSphere1 421
+    3300734: pSphere1 422
+    3300736: pSphere1 423
+    3300738: pSphere1 424
+    3300740: pSphere1 425
+    3300742: pSphere1 426
+    3300744: pSphere1 427
+    3300746: pSphere1 428
+    3300748: pSphere1 429
+    3300750: pSphere1 43
+    3300752: pSphere1 430
+    3300754: pSphere1 431
+    3300756: pSphere1 432
+    3300758: pSphere1 433
+    3300760: pSphere1 434
+    3300762: pSphere1 435
+    3300764: pSphere1 436
+    3300766: pSphere1 437
+    3300768: pSphere1 438
+    3300770: pSphere1 439
+    3300772: pSphere1 44
+    3300774: pSphere1 440
+    3300776: pSphere1 441
+    3300778: pSphere1 442
+    3300780: pSphere1 443
+    3300782: pSphere1 444
+    3300784: pSphere1 445
+    3300786: pSphere1 446
+    3300788: pSphere1 447
+    3300790: pSphere1 448
+    3300792: pSphere1 449
+    3300794: pSphere1 45
+    3300796: pSphere1 450
+    3300798: pSphere1 451
+    3300800: pSphere1 452
+    3300802: pSphere1 453
+    3300804: pSphere1 454
+    3300806: pSphere1 455
+    3300808: pSphere1 456
+    3300810: pSphere1 457
+    3300812: pSphere1 458
+    3300814: pSphere1 459
+    3300816: pSphere1 46
+    3300818: pSphere1 460
+    3300820: pSphere1 461
+    3300822: pSphere1 462
+    3300824: pSphere1 463
+    3300826: pSphere1 464
+    3300828: pSphere1 465
+    3300830: pSphere1 466
+    3300832: pSphere1 467
+    3300834: pSphere1 468
+    3300836: pSphere1 469
+    3300838: pSphere1 47
+    3300840: pSphere1 470
+    3300842: pSphere1 471
+    3300844: pSphere1 472
+    3300846: pSphere1 473
+    3300848: pSphere1 474
+    3300850: pSphere1 475
+    3300852: pSphere1 476
+    3300854: pSphere1 477
+    3300856: pSphere1 478
+    3300858: pSphere1 479
+    3300860: pSphere1 48
+    3300862: pSphere1 480
+    3300864: pSphere1 481
+    3300866: pSphere1 482
+    3300868: pSphere1 483
+    3300870: pSphere1 484
+    3300872: pSphere1 485
+    3300874: pSphere1 486
+    3300876: pSphere1 487
+    3300878: pSphere1 488
+    3300880: pSphere1 489
+    3300882: pSphere1 49
+    3300884: pSphere1 490
+    3300886: pSphere1 491
+    3300888: pSphere1 492
+    3300890: pSphere1 493
+    3300892: pSphere1 494
+    3300894: pSphere1 495
+    3300896: pSphere1 496
+    3300898: pSphere1 497
+    3300900: pSphere1 498
+    3300902: pSphere1 499
+    3300904: pSphere1 5
+    3300906: pSphere1 50
+    3300908: pSphere1 500
+    3300910: pSphere1 51
+    3300912: pSphere1 52
+    3300914: pSphere1 53
+    3300916: pSphere1 54
+    3300918: pSphere1 55
+    3300920: pSphere1 56
+    3300922: pSphere1 57
+    3300924: pSphere1 58
+    3300926: pSphere1 59
+    3300928: pSphere1 6
+    3300930: pSphere1 60
+    3300932: pSphere1 61
+    3300934: pSphere1 62
+    3300936: pSphere1 63
+    3300938: pSphere1 64
+    3300940: pSphere1 65
+    3300942: pSphere1 66
+    3300944: pSphere1 67
+    3300946: pSphere1 68
+    3300948: pSphere1 69
+    3300950: pSphere1 7
+    3300952: pSphere1 70
+    3300954: pSphere1 71
+    3300956: pSphere1 72
+    3300958: pSphere1 73
+    3300960: pSphere1 74
+    3300962: pSphere1 75
+    3300964: pSphere1 76
+    3300966: pSphere1 77
+    3300968: pSphere1 78
+    3300970: pSphere1 79
+    3300972: pSphere1 8
+    3300974: pSphere1 80
+    3300976: pSphere1 81
+    3300978: pSphere1 82
+    3300980: pSphere1 83
+    3300982: pSphere1 84
+    3300984: pSphere1 85
+    3300986: pSphere1 86
+    3300988: pSphere1 87
+    3300990: pSphere1 88
+    3300992: pSphere1 89
+    3300994: pSphere1 9
+    3300996: pSphere1 90
+    3300998: pSphere1 91
+    3301000: pSphere1 92
+    3301002: pSphere1 93
+    3301004: pSphere1 94
+    3301006: pSphere1 95
+    3301008: pSphere1 96
+    3301010: pSphere1 97
+    3301012: pSphere1 98
+    3301014: pSphere1 99
+    3301016: RING1
+    3301018: RING2
+    3301020: STARUN
+    3301022: SUN
+    3301024: URANUS
+    3301026: VENUS
+    4300000: SUN
+    4300002: MERCURY
+    4300004: VENUS
+    4300006: EARTH
+    4300008: MOON_EARTH
+    4300010: MARS
+    4300012: JUPITER
+    4300014: STARUN
+    4300016: RING1
+    4300018: RING2
+    4300020: URANUS
+    4300022: NEPTUNE
+    4300024: PLUTO
+    4300026: pSphere1
+    4300028: pSphere1
+    4300030: pSphere1
+    4300032: pSphere1
+    4300034: pSphere1
+    4300036: pSphere1
+    4300038: pSphere1
+    4300040: pSphere1
+    4300042: pSphere1
+    4300044: pSphere1
+    4300046: pSphere1
+    4300048: pSphere1
+    4300050: pSphere1
+    4300052: pSphere1
+    4300054: pSphere1
+    4300056: pSphere1
+    4300058: pSphere1
+    4300060: pSphere1
+    4300062: pSphere1
+    4300064: pSphere1
+    4300066: pSphere1
+    4300068: pSphere1
+    4300070: pSphere1
+    4300072: pSphere1
+    4300074: pSphere1
+    4300076: pSphere1
+    4300078: pSphere1
+    4300080: pSphere1
+    4300082: pSphere1
+    4300084: pSphere1
+    4300086: pSphere1
+    4300088: pSphere1
+    4300090: pSphere1
+    4300092: pSphere1
+    4300094: pSphere1
+    4300096: pSphere1
+    4300098: pSphere1
+    4300100: pSphere1
+    4300102: pSphere1
+    4300104: pSphere1
+    4300106: pSphere1
+    4300108: pSphere1
+    4300110: pSphere1
+    4300112: pSphere1
+    4300114: pSphere1
+    4300116: pSphere1
+    4300118: pSphere1
+    4300120: pSphere1
+    4300122: pSphere1
+    4300124: pSphere1
+    4300126: pSphere1
+    4300128: pSphere1
+    4300130: pSphere1
+    4300132: pSphere1
+    4300134: pSphere1
+    4300136: pSphere1
+    4300138: pSphere1
+    4300140: pSphere1
+    4300142: pSphere1
+    4300144: pSphere1
+    4300146: pSphere1
+    4300148: pSphere1
+    4300150: pSphere1
+    4300152: pSphere1
+    4300154: pSphere1
+    4300156: pSphere1
+    4300158: pSphere1
+    4300160: pSphere1
+    4300162: pSphere1
+    4300164: pSphere1
+    4300166: pSphere1
+    4300168: pSphere1
+    4300170: pSphere1
+    4300172: pSphere1
+    4300174: pSphere1
+    4300176: pSphere1
+    4300178: pSphere1
+    4300180: pSphere1
+    4300182: pSphere1
+    4300184: pSphere1
+    4300186: pSphere1
+    4300188: pSphere1
+    4300190: pSphere1
+    4300192: pSphere1
+    4300194: pSphere1
+    4300196: pSphere1
+    4300198: pSphere1
+    4300200: pSphere1
+    4300202: pSphere1
+    4300204: pSphere1
+    4300206: pSphere1
+    4300208: pSphere1
+    4300210: pSphere1
+    4300212: pSphere1
+    4300214: pSphere1
+    4300216: pSphere1
+    4300218: pSphere1
+    4300220: pSphere1
+    4300222: pSphere1
+    4300224: pSphere1
+    4300226: pSphere1
+    4300228: pSphere1
+    4300230: pSphere1
+    4300232: pSphere1
+    4300234: pSphere1
+    4300236: pSphere1
+    4300238: pSphere1
+    4300240: pSphere1
+    4300242: pSphere1
+    4300244: pSphere1
+    4300246: pSphere1
+    4300248: pSphere1
+    4300250: pSphere1
+    4300252: pSphere1
+    4300254: pSphere1
+    4300256: pSphere1
+    4300258: pSphere1
+    4300260: pSphere1
+    4300262: pSphere1
+    4300264: pSphere1
+    4300266: pSphere1
+    4300268: pSphere1
+    4300270: pSphere1
+    4300272: pSphere1
+    4300274: pSphere1
+    4300276: pSphere1
+    4300278: pSphere1
+    4300280: pSphere1
+    4300282: pSphere1
+    4300284: pSphere1
+    4300286: pSphere1
+    4300288: pSphere1
+    4300290: pSphere1
+    4300292: pSphere1
+    4300294: pSphere1
+    4300296: pSphere1
+    4300298: pSphere1
+    4300300: pSphere1
+    4300302: pSphere1
+    4300304: pSphere1
+    4300306: pSphere1
+    4300308: pSphere1
+    4300310: pSphere1
+    4300312: pSphere1
+    4300314: pSphere1
+    4300316: pSphere1
+    4300318: pSphere1
+    4300320: pSphere1
+    4300322: pSphere1
+    4300324: pSphere1
+    4300326: pSphere1
+    4300328: pSphere1
+    4300330: pSphere1
+    4300332: pSphere1
+    4300334: pSphere1
+    4300336: pSphere1
+    4300338: pSphere1
+    4300340: pSphere1
+    4300342: pSphere1
+    4300344: pSphere1
+    4300346: pSphere1
+    4300348: pSphere1
+    4300350: pSphere1
+    4300352: pSphere1
+    4300354: pSphere1
+    4300356: pSphere1
+    4300358: pSphere1
+    4300360: pSphere1
+    4300362: pSphere1
+    4300364: pSphere1
+    4300366: pSphere1
+    4300368: pSphere1
+    4300370: pSphere1
+    4300372: pSphere1
+    4300374: pSphere1
+    4300376: pSphere1
+    4300378: pSphere1
+    4300380: pSphere1
+    4300382: pSphere1
+    4300384: pSphere1
+    4300386: pSphere1
+    4300388: pSphere1
+    4300390: pSphere1
+    4300392: pSphere1
+    4300394: pSphere1
+    4300396: pSphere1
+    4300398: pSphere1
+    4300400: pSphere1
+    4300402: pSphere1
+    4300404: pSphere1
+    4300406: pSphere1
+    4300408: pSphere1
+    4300410: pSphere1
+    4300412: pSphere1
+    4300414: pSphere1
+    4300416: pSphere1
+    4300418: pSphere1
+    4300420: pSphere1
+    4300422: pSphere1
+    4300424: pSphere1
+    4300426: pSphere1
+    4300428: pSphere1
+    4300430: pSphere1
+    4300432: pSphere1
+    4300434: pSphere1
+    4300436: pSphere1
+    4300438: pSphere1
+    4300440: pSphere1
+    4300442: pSphere1
+    4300444: pSphere1
+    4300446: pSphere1
+    4300448: pSphere1
+    4300450: pSphere1
+    4300452: pSphere1
+    4300454: pSphere1
+    4300456: pSphere1
+    4300458: pSphere1
+    4300460: pSphere1
+    4300462: pSphere1
+    4300464: pSphere1
+    4300466: pSphere1
+    4300468: pSphere1
+    4300470: pSphere1
+    4300472: pSphere1
+    4300474: pSphere1
+    4300476: pSphere1
+    4300478: pSphere1
+    4300480: pSphere1
+    4300482: pSphere1
+    4300484: pSphere1
+    4300486: pSphere1
+    4300488: pSphere1
+    4300490: pSphere1
+    4300492: pSphere1
+    4300494: pSphere1
+    4300496: pSphere1
+    4300498: pSphere1
+    4300500: pSphere1
+    4300502: pSphere1
+    4300504: pSphere1
+    4300506: pSphere1
+    4300508: pSphere1
+    4300510: pSphere1
+    4300512: pSphere1
+    4300514: pSphere1
+    4300516: pSphere1
+    4300518: pSphere1
+    4300520: pSphere1
+    4300522: pSphere1
+    4300524: pSphere1
+    4300526: pSphere1
+    4300528: pSphere1
+    4300530: pSphere1
+    4300532: pSphere1
+    4300534: pSphere1
+    4300536: pSphere1
+    4300538: pSphere1
+    4300540: pSphere1
+    4300542: pSphere1
+    4300544: pSphere1
+    4300546: pSphere1
+    4300548: pSphere1
+    4300550: pSphere1
+    4300552: pSphere1
+    4300554: pSphere1
+    4300556: pSphere1
+    4300558: pSphere1
+    4300560: pSphere1
+    4300562: pSphere1
+    4300564: pSphere1
+    4300566: pSphere1
+    4300568: pSphere1
+    4300570: pSphere1
+    4300572: pSphere1
+    4300574: pSphere1
+    4300576: pSphere1
+    4300578: pSphere1
+    4300580: pSphere1
+    4300582: pSphere1
+    4300584: pSphere1
+    4300586: pSphere1
+    4300588: pSphere1
+    4300590: pSphere1
+    4300592: pSphere1
+    4300594: pSphere1
+    4300596: pSphere1
+    4300598: pSphere1
+    4300600: pSphere1
+    4300602: pSphere1
+    4300604: pSphere1
+    4300606: pSphere1
+    4300608: pSphere1
+    4300610: pSphere1
+    4300612: pSphere1
+    4300614: pSphere1
+    4300616: pSphere1
+    4300618: pSphere1
+    4300620: pSphere1
+    4300622: pSphere1
+    4300624: pSphere1
+    4300626: pSphere1
+    4300628: pSphere1
+    4300630: pSphere1
+    4300632: pSphere1
+    4300634: pSphere1
+    4300636: pSphere1
+    4300638: pSphere1
+    4300640: pSphere1
+    4300642: pSphere1
+    4300644: pSphere1
+    4300646: pSphere1
+    4300648: pSphere1
+    4300650: pSphere1
+    4300652: pSphere1
+    4300654: pSphere1
+    4300656: pSphere1
+    4300658: pSphere1
+    4300660: pSphere1
+    4300662: pSphere1
+    4300664: pSphere1
+    4300666: pSphere1
+    4300668: pSphere1
+    4300670: pSphere1
+    4300672: pSphere1
+    4300674: pSphere1
+    4300676: pSphere1
+    4300678: pSphere1
+    4300680: pSphere1
+    4300682: pSphere1
+    4300684: pSphere1
+    4300686: pSphere1
+    4300688: pSphere1
+    4300690: pSphere1
+    4300692: pSphere1
+    4300694: pSphere1
+    4300696: pSphere1
+    4300698: pSphere1
+    4300700: pSphere1
+    4300702: pSphere1
+    4300704: pSphere1
+    4300706: pSphere1
+    4300708: pSphere1
+    4300710: pSphere1
+    4300712: pSphere1
+    4300714: pSphere1
+    4300716: pSphere1
+    4300718: pSphere1
+    4300720: pSphere1
+    4300722: pSphere1
+    4300724: pSphere1
+    4300726: pSphere1
+    4300728: pSphere1
+    4300730: pSphere1
+    4300732: pSphere1
+    4300734: pSphere1
+    4300736: pSphere1
+    4300738: pSphere1
+    4300740: pSphere1
+    4300742: pSphere1
+    4300744: pSphere1
+    4300746: pSphere1
+    4300748: pSphere1
+    4300750: pSphere1
+    4300752: pSphere1
+    4300754: pSphere1
+    4300756: pSphere1
+    4300758: pSphere1
+    4300760: pSphere1
+    4300762: pSphere1
+    4300764: pSphere1
+    4300766: pSphere1
+    4300768: pSphere1
+    4300770: pSphere1
+    4300772: pSphere1
+    4300774: pSphere1
+    4300776: pSphere1
+    4300778: pSphere1
+    4300780: pSphere1
+    4300782: pSphere1
+    4300784: pSphere1
+    4300786: pSphere1
+    4300788: pSphere1
+    4300790: pSphere1
+    4300792: pSphere1
+    4300794: pSphere1
+    4300796: pSphere1
+    4300798: pSphere1
+    4300800: pSphere1
+    4300802: pSphere1
+    4300804: pSphere1
+    4300806: pSphere1
+    4300808: pSphere1
+    4300810: pSphere1
+    4300812: pSphere1
+    4300814: pSphere1
+    4300816: pSphere1
+    4300818: pSphere1
+    4300820: pSphere1
+    4300822: pSphere1
+    4300824: pSphere1
+    4300826: pSphere1
+    4300828: pSphere1
+    4300830: pSphere1
+    4300832: pSphere1
+    4300834: pSphere1
+    4300836: pSphere1
+    4300838: pSphere1
+    4300840: pSphere1
+    4300842: pSphere1
+    4300844: pSphere1
+    4300846: pSphere1
+    4300848: pSphere1
+    4300850: pSphere1
+    4300852: pSphere1
+    4300854: pSphere1
+    4300856: pSphere1
+    4300858: pSphere1
+    4300860: pSphere1
+    4300862: pSphere1
+    4300864: pSphere1
+    4300866: pSphere1
+    4300868: pSphere1
+    4300870: pSphere1
+    4300872: pSphere1
+    4300874: pSphere1
+    4300876: pSphere1
+    4300878: pSphere1
+    4300880: pSphere1
+    4300882: pSphere1
+    4300884: pSphere1
+    4300886: pSphere1
+    4300888: pSphere1
+    4300890: pSphere1
+    4300892: pSphere1
+    4300894: pSphere1
+    4300896: pSphere1
+    4300898: pSphere1
+    4300900: pSphere1
+    4300902: pSphere1
+    4300904: pSphere1
+    4300906: pSphere1
+    4300908: pSphere1
+    4300910: pSphere1
+    4300912: pSphere1
+    4300914: pSphere1
+    4300916: pSphere1
+    4300918: pSphere1
+    4300920: pSphere1
+    4300922: pSphere1
+    4300924: pSphere1
+    4300926: pSphere1
+    4300928: pSphere1
+    4300930: pSphere1
+    4300932: pSphere1
+    4300934: pSphere1
+    4300936: pSphere1
+    4300938: pSphere1
+    4300940: pSphere1
+    4300942: pSphere1
+    4300944: pSphere1
+    4300946: pSphere1
+    4300948: pSphere1
+    4300950: pSphere1
+    4300952: pSphere1
+    4300954: pSphere1
+    4300956: pSphere1
+    4300958: pSphere1
+    4300960: pSphere1
+    4300962: pSphere1
+    4300964: pSphere1
+    4300966: pSphere1
+    4300968: pSphere1
+    4300970: pSphere1
+    4300972: pSphere1
+    4300974: pSphere1
+    4300976: pSphere1
+    4300978: pSphere1
+    4300980: pSphere1
+    4300982: pSphere1
+    4300984: pSphere1
+    4300986: pSphere1
+    4300988: pSphere1
+    4300990: pSphere1
+    4300992: pSphere1
+    4300994: pSphere1
+    4300996: pSphere1
+    4300998: pSphere1
+    4301000: pSphere1
+    4301002: pSphere1
+    4301004: pSphere1
+    4301006: pSphere1
+    4301008: pSphere1
+    4301010: pSphere1
+    4301012: pSphere1
+    4301014: pSphere1
+    4301016: pSphere1
+    4301018: pSphere1
+    4301020: pSphere1
+    4301022: pSphere1
+    4301024: pSphere1
+    4301026: pSphere1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group10
+        weight: 1
+      - path: group10/rockgroup1
+        weight: 1
+      - path: group10/rockgroup1/pSphere1
+        weight: 1
+      - path: group10/rockgroup2
+        weight: 1
+      - path: group10/rockgroup2/pSphere1 111
+        weight: 1
+      - path: group10/rockgroup3
+        weight: 1
+      - path: group10/rockgroup3/pSphere1 222
+        weight: 1
+      - path: group10/rockgroup4
+        weight: 1
+      - path: group10/rockgroup4/pSphere1 333
+        weight: 1
+      - path: group10/rockgroup5
+        weight: 1
+      - path: group10/rockgroup5/pSphere1 444
+        weight: 1
+      - path: group10/rockgroup6
+        weight: 1
+      - path: group10/rockgroup6/pSphere1 457
+        weight: 1
+      - path: group10/rockgroup7
+        weight: 1
+      - path: group10/rockgroup7/pSphere1 468
+        weight: 1
+      - path: group10/rockgroup8
+        weight: 1
+      - path: group10/rockgroup8/pSphere1 479
+        weight: 1
+      - path: group10/rockgroup9
+        weight: 1
+      - path: group10/rockgroup9/pSphere1 490
+        weight: 1
+      - path: group10/rockgroup10
+        weight: 1
+      - path: group10/rockgroup10/pSphere1 1
+        weight: 1
+      - path: group10/rockgroup11
+        weight: 1
+      - path: group10/rockgroup11/pSphere1 12
+        weight: 1
+      - path: group10/rockgroup12
+        weight: 1
+      - path: group10/rockgroup12/pSphere1 23
+        weight: 1
+      - path: group10/rockgroup13
+        weight: 1
+      - path: group10/rockgroup13/pSphere1 34
+        weight: 1
+      - path: group10/rockgroup14
+        weight: 1
+      - path: group10/rockgroup14/pSphere1 45
+        weight: 1
+      - path: group10/rockgroup15
+        weight: 1
+      - path: group10/rockgroup15/pSphere1 56
+        weight: 1
+      - path: group10/rockgroup16
+        weight: 1
+      - path: group10/rockgroup16/pSphere1 67
+        weight: 1
+      - path: group10/rockgroup17
+        weight: 1
+      - path: group10/rockgroup17/pSphere1 78
+        weight: 1
+      - path: group10/rockgroup18
+        weight: 1
+      - path: group10/rockgroup18/pSphere1 89
+        weight: 1
+      - path: group10/rockgroup19
+        weight: 1
+      - path: group10/rockgroup19/pSphere1 100
+        weight: 1
+      - path: group10/rockgroup20
+        weight: 1
+      - path: group10/rockgroup20/pSphere1 112
+        weight: 1
+      - path: group10/rockgroup21
+        weight: 1
+      - path: group10/rockgroup21/pSphere1 123
+        weight: 1
+      - path: group10/rockgroup22
+        weight: 1
+      - path: group10/rockgroup22/pSphere1 134
+        weight: 1
+      - path: group10/rockgroup23
+        weight: 1
+      - path: group10/rockgroup23/pSphere1 145
+        weight: 1
+      - path: group10/rockgroup24
+        weight: 1
+      - path: group10/rockgroup24/pSphere1 156
+        weight: 1
+      - path: group10/rockgroup25
+        weight: 1
+      - path: group10/rockgroup25/pSphere1 167
+        weight: 1
+      - path: group10/rockgroup26
+        weight: 1
+      - path: group10/rockgroup26/pSphere1 178
+        weight: 1
+      - path: group10/rockgroup27
+        weight: 1
+      - path: group10/rockgroup27/pSphere1 189
+        weight: 1
+      - path: group10/rockgroup28
+        weight: 1
+      - path: group10/rockgroup28/pSphere1 200
+        weight: 1
+      - path: group10/rockgroup29
+        weight: 1
+      - path: group10/rockgroup29/pSphere1 211
+        weight: 1
+      - path: group10/rockgroup30
+        weight: 1
+      - path: group10/rockgroup30/pSphere1 223
+        weight: 1
+      - path: group10/rockgroup31
+        weight: 1
+      - path: group10/rockgroup31/pSphere1 234
+        weight: 1
+      - path: group10/rockgroup32
+        weight: 1
+      - path: group10/rockgroup32/pSphere1 245
+        weight: 1
+      - path: group10/rockgroup33
+        weight: 1
+      - path: group10/rockgroup33/pSphere1 256
+        weight: 1
+      - path: group10/rockgroup34
+        weight: 1
+      - path: group10/rockgroup34/pSphere1 267
+        weight: 1
+      - path: group10/rockgroup35
+        weight: 1
+      - path: group10/rockgroup35/pSphere1 278
+        weight: 1
+      - path: group10/rockgroup36
+        weight: 1
+      - path: group10/rockgroup36/pSphere1 289
+        weight: 1
+      - path: group10/rockgroup37
+        weight: 1
+      - path: group10/rockgroup37/pSphere1 300
+        weight: 1
+      - path: group10/rockgroup38
+        weight: 1
+      - path: group10/rockgroup38/pSphere1 311
+        weight: 1
+      - path: group10/rockgroup39
+        weight: 1
+      - path: group10/rockgroup39/pSphere1 322
+        weight: 1
+      - path: group10/rockgroup40
+        weight: 1
+      - path: group10/rockgroup40/pSphere1 334
+        weight: 1
+      - path: group10/rockgroup41
+        weight: 1
+      - path: group10/rockgroup41/pSphere1 345
+        weight: 1
+      - path: group10/rockgroup42
+        weight: 1
+      - path: group10/rockgroup42/pSphere1 356
+        weight: 1
+      - path: group10/rockgroup43
+        weight: 1
+      - path: group10/rockgroup43/pSphere1 367
+        weight: 1
+      - path: group10/rockgroup44
+        weight: 1
+      - path: group10/rockgroup44/pSphere1 378
+        weight: 1
+      - path: group10/rockgroup45
+        weight: 1
+      - path: group10/rockgroup45/pSphere1 389
+        weight: 1
+      - path: group10/rockgroup46
+        weight: 1
+      - path: group10/rockgroup46/pSphere1 400
+        weight: 1
+      - path: group10/rockgroup47
+        weight: 1
+      - path: group10/rockgroup47/pSphere1 411
+        weight: 1
+      - path: group10/rockgroup48
+        weight: 1
+      - path: group10/rockgroup48/pSphere1 422
+        weight: 1
+      - path: group10/rockgroup49
+        weight: 1
+      - path: group10/rockgroup49/pSphere1 433
+        weight: 1
+      - path: group10/rockgroup50
+        weight: 1
+      - path: group10/rockgroup50/pSphere1 445
+        weight: 1
+      - path: group10/rockgroup51
+        weight: 1
+      - path: group10/rockgroup51/pSphere1 448
+        weight: 1
+      - path: group10/rockgroup52
+        weight: 1
+      - path: group10/rockgroup52/pSphere1 449
+        weight: 1
+      - path: group10/rockgroup53
+        weight: 1
+      - path: group10/rockgroup53/pSphere1 450
+        weight: 1
+      - path: group10/rockgroup54
+        weight: 1
+      - path: group10/rockgroup54/pSphere1 451
+        weight: 1
+      - path: group10/rockgroup55
+        weight: 1
+      - path: group10/rockgroup55/pSphere1 452
+        weight: 1
+      - path: group10/rockgroup56
+        weight: 1
+      - path: group10/rockgroup56/pSphere1 453
+        weight: 1
+      - path: group10/rockgroup57
+        weight: 1
+      - path: group10/rockgroup57/pSphere1 454
+        weight: 1
+      - path: group10/rockgroup58
+        weight: 1
+      - path: group10/rockgroup58/pSphere1 455
+        weight: 1
+      - path: group10/rockgroup59
+        weight: 1
+      - path: group10/rockgroup59/pSphere1 456
+        weight: 1
+      - path: group10/rockgroup60
+        weight: 1
+      - path: group10/rockgroup60/pSphere1 458
+        weight: 1
+      - path: group10/rockgroup61
+        weight: 1
+      - path: group10/rockgroup61/pSphere1 459
+        weight: 1
+      - path: group10/rockgroup62
+        weight: 1
+      - path: group10/rockgroup62/pSphere1 460
+        weight: 1
+      - path: group10/rockgroup63
+        weight: 1
+      - path: group10/rockgroup63/pSphere1 461
+        weight: 1
+      - path: group10/rockgroup64
+        weight: 1
+      - path: group10/rockgroup64/pSphere1 462
+        weight: 1
+      - path: group10/rockgroup65
+        weight: 1
+      - path: group10/rockgroup65/pSphere1 463
+        weight: 1
+      - path: group10/rockgroup66
+        weight: 1
+      - path: group10/rockgroup66/pSphere1 464
+        weight: 1
+      - path: group10/rockgroup67
+        weight: 1
+      - path: group10/rockgroup67/pSphere1 465
+        weight: 1
+      - path: group10/rockgroup68
+        weight: 1
+      - path: group10/rockgroup68/pSphere1 466
+        weight: 1
+      - path: group10/rockgroup69
+        weight: 1
+      - path: group10/rockgroup69/pSphere1 467
+        weight: 1
+      - path: group10/rockgroup70
+        weight: 1
+      - path: group10/rockgroup70/pSphere1 469
+        weight: 1
+      - path: group10/rockgroup71
+        weight: 1
+      - path: group10/rockgroup71/pSphere1 470
+        weight: 1
+      - path: group10/rockgroup72
+        weight: 1
+      - path: group10/rockgroup72/pSphere1 471
+        weight: 1
+      - path: group10/rockgroup73
+        weight: 1
+      - path: group10/rockgroup73/pSphere1 472
+        weight: 1
+      - path: group10/rockgroup74
+        weight: 1
+      - path: group10/rockgroup74/pSphere1 473
+        weight: 1
+      - path: group10/rockgroup75
+        weight: 1
+      - path: group10/rockgroup75/pSphere1 474
+        weight: 1
+      - path: group10/rockgroup76
+        weight: 1
+      - path: group10/rockgroup76/pSphere1 475
+        weight: 1
+      - path: group10/rockgroup77
+        weight: 1
+      - path: group10/rockgroup77/pSphere1 476
+        weight: 1
+      - path: group10/rockgroup78
+        weight: 1
+      - path: group10/rockgroup78/pSphere1 477
+        weight: 1
+      - path: group10/rockgroup79
+        weight: 1
+      - path: group10/rockgroup79/pSphere1 478
+        weight: 1
+      - path: group10/rockgroup80
+        weight: 1
+      - path: group10/rockgroup80/pSphere1 480
+        weight: 1
+      - path: group10/rockgroup81
+        weight: 1
+      - path: group10/rockgroup81/pSphere1 481
+        weight: 1
+      - path: group10/rockgroup82
+        weight: 1
+      - path: group10/rockgroup82/pSphere1 482
+        weight: 1
+      - path: group10/rockgroup83
+        weight: 1
+      - path: group10/rockgroup83/pSphere1 483
+        weight: 1
+      - path: group10/rockgroup84
+        weight: 1
+      - path: group10/rockgroup84/pSphere1 484
+        weight: 1
+      - path: group10/rockgroup85
+        weight: 1
+      - path: group10/rockgroup85/pSphere1 485
+        weight: 1
+      - path: group10/rockgroup86
+        weight: 1
+      - path: group10/rockgroup86/pSphere1 486
+        weight: 1
+      - path: group10/rockgroup87
+        weight: 1
+      - path: group10/rockgroup87/pSphere1 487
+        weight: 1
+      - path: group10/rockgroup88
+        weight: 1
+      - path: group10/rockgroup88/pSphere1 488
+        weight: 1
+      - path: group10/rockgroup89
+        weight: 1
+      - path: group10/rockgroup89/pSphere1 489
+        weight: 1
+      - path: group10/rockgroup90
+        weight: 1
+      - path: group10/rockgroup90/pSphere1 491
+        weight: 1
+      - path: group10/rockgroup91
+        weight: 1
+      - path: group10/rockgroup91/pSphere1 492
+        weight: 1
+      - path: group10/rockgroup92
+        weight: 1
+      - path: group10/rockgroup92/pSphere1 493
+        weight: 1
+      - path: group10/rockgroup93
+        weight: 1
+      - path: group10/rockgroup93/pSphere1 494
+        weight: 1
+      - path: group10/rockgroup94
+        weight: 1
+      - path: group10/rockgroup94/pSphere1 495
+        weight: 1
+      - path: group10/rockgroup95
+        weight: 1
+      - path: group10/rockgroup95/pSphere1 496
+        weight: 1
+      - path: group10/rockgroup96
+        weight: 1
+      - path: group10/rockgroup96/pSphere1 497
+        weight: 1
+      - path: group10/rockgroup97
+        weight: 1
+      - path: group10/rockgroup97/pSphere1 498
+        weight: 1
+      - path: group10/rockgroup98
+        weight: 1
+      - path: group10/rockgroup98/pSphere1 499
+        weight: 1
+      - path: group10/rockgroup99
+        weight: 1
+      - path: group10/rockgroup99/pSphere1 500
+        weight: 1
+      - path: group10/rockgroup100
+        weight: 1
+      - path: group10/rockgroup100/pSphere1 2
+        weight: 1
+      - path: group10/rockgroup101
+        weight: 1
+      - path: group10/rockgroup101/pSphere1 3
+        weight: 1
+      - path: group10/rockgroup102
+        weight: 1
+      - path: group10/rockgroup102/pSphere1 4
+        weight: 1
+      - path: group10/rockgroup103
+        weight: 1
+      - path: group10/rockgroup103/pSphere1 5
+        weight: 1
+      - path: group10/rockgroup104
+        weight: 1
+      - path: group10/rockgroup104/pSphere1 6
+        weight: 1
+      - path: group10/rockgroup105
+        weight: 1
+      - path: group10/rockgroup105/pSphere1 7
+        weight: 1
+      - path: group10/rockgroup106
+        weight: 1
+      - path: group10/rockgroup106/pSphere1 8
+        weight: 1
+      - path: group10/rockgroup107
+        weight: 1
+      - path: group10/rockgroup107/pSphere1 9
+        weight: 1
+      - path: group10/rockgroup108
+        weight: 1
+      - path: group10/rockgroup108/pSphere1 10
+        weight: 1
+      - path: group10/rockgroup109
+        weight: 1
+      - path: group10/rockgroup109/pSphere1 11
+        weight: 1
+      - path: group10/rockgroup110
+        weight: 1
+      - path: group10/rockgroup110/pSphere1 13
+        weight: 1
+      - path: group10/rockgroup111
+        weight: 1
+      - path: group10/rockgroup111/pSphere1 14
+        weight: 1
+      - path: group10/rockgroup112
+        weight: 1
+      - path: group10/rockgroup112/pSphere1 15
+        weight: 1
+      - path: group10/rockgroup113
+        weight: 1
+      - path: group10/rockgroup113/pSphere1 16
+        weight: 1
+      - path: group10/rockgroup114
+        weight: 1
+      - path: group10/rockgroup114/pSphere1 17
+        weight: 1
+      - path: group10/rockgroup115
+        weight: 1
+      - path: group10/rockgroup115/pSphere1 18
+        weight: 1
+      - path: group10/rockgroup116
+        weight: 1
+      - path: group10/rockgroup116/pSphere1 19
+        weight: 1
+      - path: group10/rockgroup117
+        weight: 1
+      - path: group10/rockgroup117/pSphere1 20
+        weight: 1
+      - path: group10/rockgroup118
+        weight: 1
+      - path: group10/rockgroup118/pSphere1 21
+        weight: 1
+      - path: group10/rockgroup119
+        weight: 1
+      - path: group10/rockgroup119/pSphere1 22
+        weight: 1
+      - path: group10/rockgroup120
+        weight: 1
+      - path: group10/rockgroup120/pSphere1 24
+        weight: 1
+      - path: group10/rockgroup121
+        weight: 1
+      - path: group10/rockgroup121/pSphere1 25
+        weight: 1
+      - path: group10/rockgroup122
+        weight: 1
+      - path: group10/rockgroup122/pSphere1 26
+        weight: 1
+      - path: group10/rockgroup123
+        weight: 1
+      - path: group10/rockgroup123/pSphere1 27
+        weight: 1
+      - path: group10/rockgroup124
+        weight: 1
+      - path: group10/rockgroup124/pSphere1 28
+        weight: 1
+      - path: group10/rockgroup125
+        weight: 1
+      - path: group10/rockgroup125/pSphere1 29
+        weight: 1
+      - path: group10/rockgroup126
+        weight: 1
+      - path: group10/rockgroup126/pSphere1 30
+        weight: 1
+      - path: group10/rockgroup127
+        weight: 1
+      - path: group10/rockgroup127/pSphere1 31
+        weight: 1
+      - path: group10/rockgroup128
+        weight: 1
+      - path: group10/rockgroup128/pSphere1 32
+        weight: 1
+      - path: group10/rockgroup129
+        weight: 1
+      - path: group10/rockgroup129/pSphere1 33
+        weight: 1
+      - path: group10/rockgroup130
+        weight: 1
+      - path: group10/rockgroup130/pSphere1 35
+        weight: 1
+      - path: group10/rockgroup131
+        weight: 1
+      - path: group10/rockgroup131/pSphere1 36
+        weight: 1
+      - path: group10/rockgroup132
+        weight: 1
+      - path: group10/rockgroup132/pSphere1 37
+        weight: 1
+      - path: group10/rockgroup133
+        weight: 1
+      - path: group10/rockgroup133/pSphere1 38
+        weight: 1
+      - path: group10/rockgroup134
+        weight: 1
+      - path: group10/rockgroup134/pSphere1 39
+        weight: 1
+      - path: group10/rockgroup135
+        weight: 1
+      - path: group10/rockgroup135/pSphere1 40
+        weight: 1
+      - path: group10/rockgroup136
+        weight: 1
+      - path: group10/rockgroup136/pSphere1 41
+        weight: 1
+      - path: group10/rockgroup137
+        weight: 1
+      - path: group10/rockgroup137/pSphere1 42
+        weight: 1
+      - path: group10/rockgroup138
+        weight: 1
+      - path: group10/rockgroup138/pSphere1 43
+        weight: 1
+      - path: group10/rockgroup139
+        weight: 1
+      - path: group10/rockgroup139/pSphere1 44
+        weight: 1
+      - path: group10/rockgroup140
+        weight: 1
+      - path: group10/rockgroup140/pSphere1 46
+        weight: 1
+      - path: group10/rockgroup141
+        weight: 1
+      - path: group10/rockgroup141/pSphere1 47
+        weight: 1
+      - path: group10/rockgroup142
+        weight: 1
+      - path: group10/rockgroup142/pSphere1 48
+        weight: 1
+      - path: group10/rockgroup143
+        weight: 1
+      - path: group10/rockgroup143/pSphere1 49
+        weight: 1
+      - path: group10/rockgroup144
+        weight: 1
+      - path: group10/rockgroup144/pSphere1 50
+        weight: 1
+      - path: group10/rockgroup145
+        weight: 1
+      - path: group10/rockgroup145/pSphere1 51
+        weight: 1
+      - path: group10/rockgroup146
+        weight: 1
+      - path: group10/rockgroup146/pSphere1 52
+        weight: 1
+      - path: group10/rockgroup147
+        weight: 1
+      - path: group10/rockgroup147/pSphere1 53
+        weight: 1
+      - path: group10/rockgroup148
+        weight: 1
+      - path: group10/rockgroup148/pSphere1 54
+        weight: 1
+      - path: group10/rockgroup149
+        weight: 1
+      - path: group10/rockgroup149/pSphere1 55
+        weight: 1
+      - path: group10/rockgroup150
+        weight: 1
+      - path: group10/rockgroup150/pSphere1 57
+        weight: 1
+      - path: group10/rockgroup151
+        weight: 1
+      - path: group10/rockgroup151/pSphere1 58
+        weight: 1
+      - path: group10/rockgroup152
+        weight: 1
+      - path: group10/rockgroup152/pSphere1 59
+        weight: 1
+      - path: group10/rockgroup153
+        weight: 1
+      - path: group10/rockgroup153/pSphere1 60
+        weight: 1
+      - path: group10/rockgroup154
+        weight: 1
+      - path: group10/rockgroup154/pSphere1 61
+        weight: 1
+      - path: group10/rockgroup155
+        weight: 1
+      - path: group10/rockgroup155/pSphere1 62
+        weight: 1
+      - path: group10/rockgroup156
+        weight: 1
+      - path: group10/rockgroup156/pSphere1 63
+        weight: 1
+      - path: group10/rockgroup157
+        weight: 1
+      - path: group10/rockgroup157/pSphere1 64
+        weight: 1
+      - path: group10/rockgroup158
+        weight: 1
+      - path: group10/rockgroup158/pSphere1 65
+        weight: 1
+      - path: group10/rockgroup159
+        weight: 1
+      - path: group10/rockgroup159/pSphere1 66
+        weight: 1
+      - path: group10/rockgroup160
+        weight: 1
+      - path: group10/rockgroup160/pSphere1 68
+        weight: 1
+      - path: group10/rockgroup161
+        weight: 1
+      - path: group10/rockgroup161/pSphere1 69
+        weight: 1
+      - path: group10/rockgroup162
+        weight: 1
+      - path: group10/rockgroup162/pSphere1 70
+        weight: 1
+      - path: group10/rockgroup163
+        weight: 1
+      - path: group10/rockgroup163/pSphere1 71
+        weight: 1
+      - path: group10/rockgroup164
+        weight: 1
+      - path: group10/rockgroup164/pSphere1 72
+        weight: 1
+      - path: group10/rockgroup165
+        weight: 1
+      - path: group10/rockgroup165/pSphere1 73
+        weight: 1
+      - path: group10/rockgroup166
+        weight: 1
+      - path: group10/rockgroup166/pSphere1 74
+        weight: 1
+      - path: group10/rockgroup167
+        weight: 1
+      - path: group10/rockgroup167/pSphere1 75
+        weight: 1
+      - path: group10/rockgroup168
+        weight: 1
+      - path: group10/rockgroup168/pSphere1 76
+        weight: 1
+      - path: group10/rockgroup169
+        weight: 1
+      - path: group10/rockgroup169/pSphere1 77
+        weight: 1
+      - path: group10/rockgroup170
+        weight: 1
+      - path: group10/rockgroup170/pSphere1 79
+        weight: 1
+      - path: group10/rockgroup171
+        weight: 1
+      - path: group10/rockgroup171/pSphere1 80
+        weight: 1
+      - path: group10/rockgroup172
+        weight: 1
+      - path: group10/rockgroup172/pSphere1 81
+        weight: 1
+      - path: group10/rockgroup173
+        weight: 1
+      - path: group10/rockgroup173/pSphere1 82
+        weight: 1
+      - path: group10/rockgroup174
+        weight: 1
+      - path: group10/rockgroup174/pSphere1 83
+        weight: 1
+      - path: group10/rockgroup175
+        weight: 1
+      - path: group10/rockgroup175/pSphere1 84
+        weight: 1
+      - path: group10/rockgroup176
+        weight: 1
+      - path: group10/rockgroup176/pSphere1 85
+        weight: 1
+      - path: group10/rockgroup177
+        weight: 1
+      - path: group10/rockgroup177/pSphere1 86
+        weight: 1
+      - path: group10/rockgroup178
+        weight: 1
+      - path: group10/rockgroup178/pSphere1 87
+        weight: 1
+      - path: group10/rockgroup179
+        weight: 1
+      - path: group10/rockgroup179/pSphere1 88
+        weight: 1
+      - path: group10/rockgroup180
+        weight: 1
+      - path: group10/rockgroup180/pSphere1 90
+        weight: 1
+      - path: group10/rockgroup181
+        weight: 1
+      - path: group10/rockgroup181/pSphere1 91
+        weight: 1
+      - path: group10/rockgroup182
+        weight: 1
+      - path: group10/rockgroup182/pSphere1 92
+        weight: 1
+      - path: group10/rockgroup183
+        weight: 1
+      - path: group10/rockgroup183/pSphere1 93
+        weight: 1
+      - path: group10/rockgroup184
+        weight: 1
+      - path: group10/rockgroup184/pSphere1 94
+        weight: 1
+      - path: group10/rockgroup185
+        weight: 1
+      - path: group10/rockgroup185/pSphere1 95
+        weight: 1
+      - path: group10/rockgroup186
+        weight: 1
+      - path: group10/rockgroup186/pSphere1 96
+        weight: 1
+      - path: group10/rockgroup187
+        weight: 1
+      - path: group10/rockgroup187/pSphere1 97
+        weight: 1
+      - path: group10/rockgroup188
+        weight: 1
+      - path: group10/rockgroup188/pSphere1 98
+        weight: 1
+      - path: group10/rockgroup189
+        weight: 1
+      - path: group10/rockgroup189/pSphere1 99
+        weight: 1
+      - path: group10/rockgroup190
+        weight: 1
+      - path: group10/rockgroup190/pSphere1 101
+        weight: 1
+      - path: group10/rockgroup191
+        weight: 1
+      - path: group10/rockgroup191/pSphere1 102
+        weight: 1
+      - path: group10/rockgroup192
+        weight: 1
+      - path: group10/rockgroup192/pSphere1 103
+        weight: 1
+      - path: group10/rockgroup193
+        weight: 1
+      - path: group10/rockgroup193/pSphere1 104
+        weight: 1
+      - path: group10/rockgroup194
+        weight: 1
+      - path: group10/rockgroup194/pSphere1 105
+        weight: 1
+      - path: group10/rockgroup195
+        weight: 1
+      - path: group10/rockgroup195/pSphere1 106
+        weight: 1
+      - path: group10/rockgroup196
+        weight: 1
+      - path: group10/rockgroup196/pSphere1 107
+        weight: 1
+      - path: group10/rockgroup197
+        weight: 1
+      - path: group10/rockgroup197/pSphere1 108
+        weight: 1
+      - path: group10/rockgroup198
+        weight: 1
+      - path: group10/rockgroup198/pSphere1 109
+        weight: 1
+      - path: group10/rockgroup199
+        weight: 1
+      - path: group10/rockgroup199/pSphere1 110
+        weight: 1
+      - path: group10/rockgroup200
+        weight: 1
+      - path: group10/rockgroup200/pSphere1 113
+        weight: 1
+      - path: group10/rockgroup201
+        weight: 1
+      - path: group10/rockgroup201/pSphere1 114
+        weight: 1
+      - path: group10/rockgroup202
+        weight: 1
+      - path: group10/rockgroup202/pSphere1 115
+        weight: 1
+      - path: group10/rockgroup203
+        weight: 1
+      - path: group10/rockgroup203/pSphere1 116
+        weight: 1
+      - path: group10/rockgroup204
+        weight: 1
+      - path: group10/rockgroup204/pSphere1 117
+        weight: 1
+      - path: group10/rockgroup205
+        weight: 1
+      - path: group10/rockgroup205/pSphere1 118
+        weight: 1
+      - path: group10/rockgroup206
+        weight: 1
+      - path: group10/rockgroup206/pSphere1 119
+        weight: 1
+      - path: group10/rockgroup207
+        weight: 1
+      - path: group10/rockgroup207/pSphere1 120
+        weight: 1
+      - path: group10/rockgroup208
+        weight: 1
+      - path: group10/rockgroup208/pSphere1 121
+        weight: 1
+      - path: group10/rockgroup209
+        weight: 1
+      - path: group10/rockgroup209/pSphere1 122
+        weight: 1
+      - path: group10/rockgroup210
+        weight: 1
+      - path: group10/rockgroup210/pSphere1 124
+        weight: 1
+      - path: group10/rockgroup211
+        weight: 1
+      - path: group10/rockgroup211/pSphere1 125
+        weight: 1
+      - path: group10/rockgroup212
+        weight: 1
+      - path: group10/rockgroup212/pSphere1 126
+        weight: 1
+      - path: group10/rockgroup213
+        weight: 1
+      - path: group10/rockgroup213/pSphere1 127
+        weight: 1
+      - path: group10/rockgroup214
+        weight: 1
+      - path: group10/rockgroup214/pSphere1 128
+        weight: 1
+      - path: group10/rockgroup215
+        weight: 1
+      - path: group10/rockgroup215/pSphere1 129
+        weight: 1
+      - path: group10/rockgroup216
+        weight: 1
+      - path: group10/rockgroup216/pSphere1 130
+        weight: 1
+      - path: group10/rockgroup217
+        weight: 1
+      - path: group10/rockgroup217/pSphere1 131
+        weight: 1
+      - path: group10/rockgroup218
+        weight: 1
+      - path: group10/rockgroup218/pSphere1 132
+        weight: 1
+      - path: group10/rockgroup219
+        weight: 1
+      - path: group10/rockgroup219/pSphere1 133
+        weight: 1
+      - path: group10/rockgroup220
+        weight: 1
+      - path: group10/rockgroup220/pSphere1 135
+        weight: 1
+      - path: group10/rockgroup221
+        weight: 1
+      - path: group10/rockgroup221/pSphere1 136
+        weight: 1
+      - path: group10/rockgroup222
+        weight: 1
+      - path: group10/rockgroup222/pSphere1 137
+        weight: 1
+      - path: group10/rockgroup223
+        weight: 1
+      - path: group10/rockgroup223/pSphere1 138
+        weight: 1
+      - path: group10/rockgroup224
+        weight: 1
+      - path: group10/rockgroup224/pSphere1 139
+        weight: 1
+      - path: group10/rockgroup225
+        weight: 1
+      - path: group10/rockgroup225/pSphere1 140
+        weight: 1
+      - path: group10/rockgroup226
+        weight: 1
+      - path: group10/rockgroup226/pSphere1 141
+        weight: 1
+      - path: group10/rockgroup227
+        weight: 1
+      - path: group10/rockgroup227/pSphere1 142
+        weight: 1
+      - path: group10/rockgroup228
+        weight: 1
+      - path: group10/rockgroup228/pSphere1 143
+        weight: 1
+      - path: group10/rockgroup229
+        weight: 1
+      - path: group10/rockgroup229/pSphere1 144
+        weight: 1
+      - path: group10/rockgroup230
+        weight: 1
+      - path: group10/rockgroup230/pSphere1 146
+        weight: 1
+      - path: group10/rockgroup231
+        weight: 1
+      - path: group10/rockgroup231/pSphere1 147
+        weight: 1
+      - path: group10/rockgroup232
+        weight: 1
+      - path: group10/rockgroup232/pSphere1 148
+        weight: 1
+      - path: group10/rockgroup233
+        weight: 1
+      - path: group10/rockgroup233/pSphere1 149
+        weight: 1
+      - path: group10/rockgroup234
+        weight: 1
+      - path: group10/rockgroup234/pSphere1 150
+        weight: 1
+      - path: group10/rockgroup235
+        weight: 1
+      - path: group10/rockgroup235/pSphere1 151
+        weight: 1
+      - path: group10/rockgroup236
+        weight: 1
+      - path: group10/rockgroup236/pSphere1 152
+        weight: 1
+      - path: group10/rockgroup237
+        weight: 1
+      - path: group10/rockgroup237/pSphere1 153
+        weight: 1
+      - path: group10/rockgroup238
+        weight: 1
+      - path: group10/rockgroup238/pSphere1 154
+        weight: 1
+      - path: group10/rockgroup239
+        weight: 1
+      - path: group10/rockgroup239/pSphere1 155
+        weight: 1
+      - path: group10/rockgroup240
+        weight: 1
+      - path: group10/rockgroup240/pSphere1 157
+        weight: 1
+      - path: group10/rockgroup241
+        weight: 1
+      - path: group10/rockgroup241/pSphere1 158
+        weight: 1
+      - path: group10/rockgroup242
+        weight: 1
+      - path: group10/rockgroup242/pSphere1 159
+        weight: 1
+      - path: group10/rockgroup243
+        weight: 1
+      - path: group10/rockgroup243/pSphere1 160
+        weight: 1
+      - path: group10/rockgroup244
+        weight: 1
+      - path: group10/rockgroup244/pSphere1 161
+        weight: 1
+      - path: group10/rockgroup245
+        weight: 1
+      - path: group10/rockgroup245/pSphere1 162
+        weight: 1
+      - path: group10/rockgroup246
+        weight: 1
+      - path: group10/rockgroup246/pSphere1 163
+        weight: 1
+      - path: group10/rockgroup247
+        weight: 1
+      - path: group10/rockgroup247/pSphere1 164
+        weight: 1
+      - path: group10/rockgroup248
+        weight: 1
+      - path: group10/rockgroup248/pSphere1 165
+        weight: 1
+      - path: group10/rockgroup249
+        weight: 1
+      - path: group10/rockgroup249/pSphere1 166
+        weight: 1
+      - path: group10/rockgroup250
+        weight: 1
+      - path: group10/rockgroup250/pSphere1 168
+        weight: 1
+      - path: group10/rockgroup251
+        weight: 1
+      - path: group10/rockgroup251/pSphere1 169
+        weight: 1
+      - path: group10/rockgroup252
+        weight: 1
+      - path: group10/rockgroup252/pSphere1 170
+        weight: 1
+      - path: group10/rockgroup253
+        weight: 1
+      - path: group10/rockgroup253/pSphere1 171
+        weight: 1
+      - path: group10/rockgroup254
+        weight: 1
+      - path: group10/rockgroup254/pSphere1 172
+        weight: 1
+      - path: group10/rockgroup255
+        weight: 1
+      - path: group10/rockgroup255/pSphere1 173
+        weight: 1
+      - path: group10/rockgroup256
+        weight: 1
+      - path: group10/rockgroup256/pSphere1 174
+        weight: 1
+      - path: group10/rockgroup257
+        weight: 1
+      - path: group10/rockgroup257/pSphere1 175
+        weight: 1
+      - path: group10/rockgroup258
+        weight: 1
+      - path: group10/rockgroup258/pSphere1 176
+        weight: 1
+      - path: group10/rockgroup259
+        weight: 1
+      - path: group10/rockgroup259/pSphere1 177
+        weight: 1
+      - path: group10/rockgroup260
+        weight: 1
+      - path: group10/rockgroup260/pSphere1 179
+        weight: 1
+      - path: group10/rockgroup261
+        weight: 1
+      - path: group10/rockgroup261/pSphere1 180
+        weight: 1
+      - path: group10/rockgroup262
+        weight: 1
+      - path: group10/rockgroup262/pSphere1 181
+        weight: 1
+      - path: group10/rockgroup263
+        weight: 1
+      - path: group10/rockgroup263/pSphere1 182
+        weight: 1
+      - path: group10/rockgroup264
+        weight: 1
+      - path: group10/rockgroup264/pSphere1 183
+        weight: 1
+      - path: group10/rockgroup265
+        weight: 1
+      - path: group10/rockgroup265/pSphere1 184
+        weight: 1
+      - path: group10/rockgroup266
+        weight: 1
+      - path: group10/rockgroup266/pSphere1 185
+        weight: 1
+      - path: group10/rockgroup267
+        weight: 1
+      - path: group10/rockgroup267/pSphere1 186
+        weight: 1
+      - path: group10/rockgroup268
+        weight: 1
+      - path: group10/rockgroup268/pSphere1 187
+        weight: 1
+      - path: group10/rockgroup269
+        weight: 1
+      - path: group10/rockgroup269/pSphere1 188
+        weight: 1
+      - path: group10/rockgroup270
+        weight: 1
+      - path: group10/rockgroup270/pSphere1 190
+        weight: 1
+      - path: group10/rockgroup271
+        weight: 1
+      - path: group10/rockgroup271/pSphere1 191
+        weight: 1
+      - path: group10/rockgroup272
+        weight: 1
+      - path: group10/rockgroup272/pSphere1 192
+        weight: 1
+      - path: group10/rockgroup273
+        weight: 1
+      - path: group10/rockgroup273/pSphere1 193
+        weight: 1
+      - path: group10/rockgroup274
+        weight: 1
+      - path: group10/rockgroup274/pSphere1 194
+        weight: 1
+      - path: group10/rockgroup275
+        weight: 1
+      - path: group10/rockgroup275/pSphere1 195
+        weight: 1
+      - path: group10/rockgroup276
+        weight: 1
+      - path: group10/rockgroup276/pSphere1 196
+        weight: 1
+      - path: group10/rockgroup277
+        weight: 1
+      - path: group10/rockgroup277/pSphere1 197
+        weight: 1
+      - path: group10/rockgroup278
+        weight: 1
+      - path: group10/rockgroup278/pSphere1 198
+        weight: 1
+      - path: group10/rockgroup279
+        weight: 1
+      - path: group10/rockgroup279/pSphere1 199
+        weight: 1
+      - path: group10/rockgroup280
+        weight: 1
+      - path: group10/rockgroup280/pSphere1 201
+        weight: 1
+      - path: group10/rockgroup281
+        weight: 1
+      - path: group10/rockgroup281/pSphere1 202
+        weight: 1
+      - path: group10/rockgroup282
+        weight: 1
+      - path: group10/rockgroup282/pSphere1 203
+        weight: 1
+      - path: group10/rockgroup283
+        weight: 1
+      - path: group10/rockgroup283/pSphere1 204
+        weight: 1
+      - path: group10/rockgroup284
+        weight: 1
+      - path: group10/rockgroup284/pSphere1 205
+        weight: 1
+      - path: group10/rockgroup285
+        weight: 1
+      - path: group10/rockgroup285/pSphere1 206
+        weight: 1
+      - path: group10/rockgroup286
+        weight: 1
+      - path: group10/rockgroup286/pSphere1 207
+        weight: 1
+      - path: group10/rockgroup287
+        weight: 1
+      - path: group10/rockgroup287/pSphere1 208
+        weight: 1
+      - path: group10/rockgroup288
+        weight: 1
+      - path: group10/rockgroup288/pSphere1 209
+        weight: 1
+      - path: group10/rockgroup289
+        weight: 1
+      - path: group10/rockgroup289/pSphere1 210
+        weight: 1
+      - path: group10/rockgroup290
+        weight: 1
+      - path: group10/rockgroup290/pSphere1 212
+        weight: 1
+      - path: group10/rockgroup291
+        weight: 1
+      - path: group10/rockgroup291/pSphere1 213
+        weight: 1
+      - path: group10/rockgroup292
+        weight: 1
+      - path: group10/rockgroup292/pSphere1 214
+        weight: 1
+      - path: group10/rockgroup293
+        weight: 1
+      - path: group10/rockgroup293/pSphere1 215
+        weight: 1
+      - path: group10/rockgroup294
+        weight: 1
+      - path: group10/rockgroup294/pSphere1 216
+        weight: 1
+      - path: group10/rockgroup295
+        weight: 1
+      - path: group10/rockgroup295/pSphere1 217
+        weight: 1
+      - path: group10/rockgroup296
+        weight: 1
+      - path: group10/rockgroup296/pSphere1 218
+        weight: 1
+      - path: group10/rockgroup297
+        weight: 1
+      - path: group10/rockgroup297/pSphere1 219
+        weight: 1
+      - path: group10/rockgroup298
+        weight: 1
+      - path: group10/rockgroup298/pSphere1 220
+        weight: 1
+      - path: group10/rockgroup299
+        weight: 1
+      - path: group10/rockgroup299/pSphere1 221
+        weight: 1
+      - path: group10/rockgroup300
+        weight: 1
+      - path: group10/rockgroup300/pSphere1 224
+        weight: 1
+      - path: group10/rockgroup301
+        weight: 1
+      - path: group10/rockgroup301/pSphere1 225
+        weight: 1
+      - path: group10/rockgroup302
+        weight: 1
+      - path: group10/rockgroup302/pSphere1 226
+        weight: 1
+      - path: group10/rockgroup303
+        weight: 1
+      - path: group10/rockgroup303/pSphere1 227
+        weight: 1
+      - path: group10/rockgroup304
+        weight: 1
+      - path: group10/rockgroup304/pSphere1 228
+        weight: 1
+      - path: group10/rockgroup305
+        weight: 1
+      - path: group10/rockgroup305/pSphere1 229
+        weight: 1
+      - path: group10/rockgroup306
+        weight: 1
+      - path: group10/rockgroup306/pSphere1 230
+        weight: 1
+      - path: group10/rockgroup307
+        weight: 1
+      - path: group10/rockgroup307/pSphere1 231
+        weight: 1
+      - path: group10/rockgroup308
+        weight: 1
+      - path: group10/rockgroup308/pSphere1 232
+        weight: 1
+      - path: group10/rockgroup309
+        weight: 1
+      - path: group10/rockgroup309/pSphere1 233
+        weight: 1
+      - path: group10/rockgroup310
+        weight: 1
+      - path: group10/rockgroup310/pSphere1 235
+        weight: 1
+      - path: group10/rockgroup311
+        weight: 1
+      - path: group10/rockgroup311/pSphere1 236
+        weight: 1
+      - path: group10/rockgroup312
+        weight: 1
+      - path: group10/rockgroup312/pSphere1 237
+        weight: 1
+      - path: group10/rockgroup313
+        weight: 1
+      - path: group10/rockgroup313/pSphere1 238
+        weight: 1
+      - path: group10/rockgroup314
+        weight: 1
+      - path: group10/rockgroup314/pSphere1 239
+        weight: 1
+      - path: group10/rockgroup315
+        weight: 1
+      - path: group10/rockgroup315/pSphere1 240
+        weight: 1
+      - path: group10/rockgroup316
+        weight: 1
+      - path: group10/rockgroup316/pSphere1 241
+        weight: 1
+      - path: group10/rockgroup317
+        weight: 1
+      - path: group10/rockgroup317/pSphere1 242
+        weight: 1
+      - path: group10/rockgroup318
+        weight: 1
+      - path: group10/rockgroup318/pSphere1 243
+        weight: 1
+      - path: group10/rockgroup319
+        weight: 1
+      - path: group10/rockgroup319/pSphere1 244
+        weight: 1
+      - path: group10/rockgroup320
+        weight: 1
+      - path: group10/rockgroup320/pSphere1 246
+        weight: 1
+      - path: group10/rockgroup321
+        weight: 1
+      - path: group10/rockgroup321/pSphere1 247
+        weight: 1
+      - path: group10/rockgroup322
+        weight: 1
+      - path: group10/rockgroup322/pSphere1 248
+        weight: 1
+      - path: group10/rockgroup323
+        weight: 1
+      - path: group10/rockgroup323/pSphere1 249
+        weight: 1
+      - path: group10/rockgroup324
+        weight: 1
+      - path: group10/rockgroup324/pSphere1 250
+        weight: 1
+      - path: group10/rockgroup325
+        weight: 1
+      - path: group10/rockgroup325/pSphere1 251
+        weight: 1
+      - path: group10/rockgroup326
+        weight: 1
+      - path: group10/rockgroup326/pSphere1 252
+        weight: 1
+      - path: group10/rockgroup327
+        weight: 1
+      - path: group10/rockgroup327/pSphere1 253
+        weight: 1
+      - path: group10/rockgroup328
+        weight: 1
+      - path: group10/rockgroup328/pSphere1 254
+        weight: 1
+      - path: group10/rockgroup329
+        weight: 1
+      - path: group10/rockgroup329/pSphere1 255
+        weight: 1
+      - path: group10/rockgroup330
+        weight: 1
+      - path: group10/rockgroup330/pSphere1 257
+        weight: 1
+      - path: group10/rockgroup331
+        weight: 1
+      - path: group10/rockgroup331/pSphere1 258
+        weight: 1
+      - path: group10/rockgroup332
+        weight: 1
+      - path: group10/rockgroup332/pSphere1 259
+        weight: 1
+      - path: group10/rockgroup333
+        weight: 1
+      - path: group10/rockgroup333/pSphere1 260
+        weight: 1
+      - path: group10/rockgroup334
+        weight: 1
+      - path: group10/rockgroup334/pSphere1 261
+        weight: 1
+      - path: group10/rockgroup335
+        weight: 1
+      - path: group10/rockgroup335/pSphere1 262
+        weight: 1
+      - path: group10/rockgroup336
+        weight: 1
+      - path: group10/rockgroup336/pSphere1 263
+        weight: 1
+      - path: group10/rockgroup337
+        weight: 1
+      - path: group10/rockgroup337/pSphere1 264
+        weight: 1
+      - path: group10/rockgroup338
+        weight: 1
+      - path: group10/rockgroup338/pSphere1 265
+        weight: 1
+      - path: group10/rockgroup339
+        weight: 1
+      - path: group10/rockgroup339/pSphere1 266
+        weight: 1
+      - path: group10/rockgroup340
+        weight: 1
+      - path: group10/rockgroup340/pSphere1 268
+        weight: 1
+      - path: group10/rockgroup341
+        weight: 1
+      - path: group10/rockgroup341/pSphere1 269
+        weight: 1
+      - path: group10/rockgroup342
+        weight: 1
+      - path: group10/rockgroup342/pSphere1 270
+        weight: 1
+      - path: group10/rockgroup343
+        weight: 1
+      - path: group10/rockgroup343/pSphere1 271
+        weight: 1
+      - path: group10/rockgroup344
+        weight: 1
+      - path: group10/rockgroup344/pSphere1 272
+        weight: 1
+      - path: group10/rockgroup345
+        weight: 1
+      - path: group10/rockgroup345/pSphere1 273
+        weight: 1
+      - path: group10/rockgroup346
+        weight: 1
+      - path: group10/rockgroup346/pSphere1 274
+        weight: 1
+      - path: group10/rockgroup347
+        weight: 1
+      - path: group10/rockgroup347/pSphere1 275
+        weight: 1
+      - path: group10/rockgroup348
+        weight: 1
+      - path: group10/rockgroup348/pSphere1 276
+        weight: 1
+      - path: group10/rockgroup349
+        weight: 1
+      - path: group10/rockgroup349/pSphere1 277
+        weight: 1
+      - path: group10/rockgroup350
+        weight: 1
+      - path: group10/rockgroup350/pSphere1 279
+        weight: 1
+      - path: group10/rockgroup351
+        weight: 1
+      - path: group10/rockgroup351/pSphere1 280
+        weight: 1
+      - path: group10/rockgroup352
+        weight: 1
+      - path: group10/rockgroup352/pSphere1 281
+        weight: 1
+      - path: group10/rockgroup353
+        weight: 1
+      - path: group10/rockgroup353/pSphere1 282
+        weight: 1
+      - path: group10/rockgroup354
+        weight: 1
+      - path: group10/rockgroup354/pSphere1 283
+        weight: 1
+      - path: group10/rockgroup355
+        weight: 1
+      - path: group10/rockgroup355/pSphere1 284
+        weight: 1
+      - path: group10/rockgroup356
+        weight: 1
+      - path: group10/rockgroup356/pSphere1 285
+        weight: 1
+      - path: group10/rockgroup357
+        weight: 1
+      - path: group10/rockgroup357/pSphere1 286
+        weight: 1
+      - path: group10/rockgroup358
+        weight: 1
+      - path: group10/rockgroup358/pSphere1 287
+        weight: 1
+      - path: group10/rockgroup359
+        weight: 1
+      - path: group10/rockgroup359/pSphere1 288
+        weight: 1
+      - path: group10/rockgroup360
+        weight: 1
+      - path: group10/rockgroup360/pSphere1 290
+        weight: 1
+      - path: group10/rockgroup361
+        weight: 1
+      - path: group10/rockgroup361/pSphere1 291
+        weight: 1
+      - path: group10/rockgroup362
+        weight: 1
+      - path: group10/rockgroup362/pSphere1 292
+        weight: 1
+      - path: group10/rockgroup363
+        weight: 1
+      - path: group10/rockgroup363/pSphere1 293
+        weight: 1
+      - path: group10/rockgroup364
+        weight: 1
+      - path: group10/rockgroup364/pSphere1 294
+        weight: 1
+      - path: group10/rockgroup365
+        weight: 1
+      - path: group10/rockgroup365/pSphere1 295
+        weight: 1
+      - path: group10/rockgroup366
+        weight: 1
+      - path: group10/rockgroup366/pSphere1 296
+        weight: 1
+      - path: group10/rockgroup367
+        weight: 1
+      - path: group10/rockgroup367/pSphere1 297
+        weight: 1
+      - path: group10/rockgroup368
+        weight: 1
+      - path: group10/rockgroup368/pSphere1 298
+        weight: 1
+      - path: group10/rockgroup369
+        weight: 1
+      - path: group10/rockgroup369/pSphere1 299
+        weight: 1
+      - path: group10/rockgroup370
+        weight: 1
+      - path: group10/rockgroup370/pSphere1 301
+        weight: 1
+      - path: group10/rockgroup371
+        weight: 1
+      - path: group10/rockgroup371/pSphere1 302
+        weight: 1
+      - path: group10/rockgroup372
+        weight: 1
+      - path: group10/rockgroup372/pSphere1 303
+        weight: 1
+      - path: group10/rockgroup373
+        weight: 1
+      - path: group10/rockgroup373/pSphere1 304
+        weight: 1
+      - path: group10/rockgroup374
+        weight: 1
+      - path: group10/rockgroup374/pSphere1 305
+        weight: 1
+      - path: group10/rockgroup375
+        weight: 1
+      - path: group10/rockgroup375/pSphere1 306
+        weight: 1
+      - path: group10/rockgroup376
+        weight: 1
+      - path: group10/rockgroup376/pSphere1 307
+        weight: 1
+      - path: group10/rockgroup377
+        weight: 1
+      - path: group10/rockgroup377/pSphere1 308
+        weight: 1
+      - path: group10/rockgroup378
+        weight: 1
+      - path: group10/rockgroup378/pSphere1 309
+        weight: 1
+      - path: group10/rockgroup379
+        weight: 1
+      - path: group10/rockgroup379/pSphere1 310
+        weight: 1
+      - path: group10/rockgroup380
+        weight: 1
+      - path: group10/rockgroup380/pSphere1 312
+        weight: 1
+      - path: group10/rockgroup381
+        weight: 1
+      - path: group10/rockgroup381/pSphere1 313
+        weight: 1
+      - path: group10/rockgroup382
+        weight: 1
+      - path: group10/rockgroup382/pSphere1 314
+        weight: 1
+      - path: group10/rockgroup383
+        weight: 1
+      - path: group10/rockgroup383/pSphere1 315
+        weight: 1
+      - path: group10/rockgroup384
+        weight: 1
+      - path: group10/rockgroup384/pSphere1 316
+        weight: 1
+      - path: group10/rockgroup385
+        weight: 1
+      - path: group10/rockgroup385/pSphere1 317
+        weight: 1
+      - path: group10/rockgroup386
+        weight: 1
+      - path: group10/rockgroup386/pSphere1 318
+        weight: 1
+      - path: group10/rockgroup387
+        weight: 1
+      - path: group10/rockgroup387/pSphere1 319
+        weight: 1
+      - path: group10/rockgroup388
+        weight: 1
+      - path: group10/rockgroup388/pSphere1 320
+        weight: 1
+      - path: group10/rockgroup389
+        weight: 1
+      - path: group10/rockgroup389/pSphere1 321
+        weight: 1
+      - path: group10/rockgroup390
+        weight: 1
+      - path: group10/rockgroup390/pSphere1 323
+        weight: 1
+      - path: group10/rockgroup391
+        weight: 1
+      - path: group10/rockgroup391/pSphere1 324
+        weight: 1
+      - path: group10/rockgroup392
+        weight: 1
+      - path: group10/rockgroup392/pSphere1 325
+        weight: 1
+      - path: group10/rockgroup393
+        weight: 1
+      - path: group10/rockgroup393/pSphere1 326
+        weight: 1
+      - path: group10/rockgroup394
+        weight: 1
+      - path: group10/rockgroup394/pSphere1 327
+        weight: 1
+      - path: group10/rockgroup395
+        weight: 1
+      - path: group10/rockgroup395/pSphere1 328
+        weight: 1
+      - path: group10/rockgroup396
+        weight: 1
+      - path: group10/rockgroup396/pSphere1 329
+        weight: 1
+      - path: group10/rockgroup397
+        weight: 1
+      - path: group10/rockgroup397/pSphere1 330
+        weight: 1
+      - path: group10/rockgroup398
+        weight: 1
+      - path: group10/rockgroup398/pSphere1 331
+        weight: 1
+      - path: group10/rockgroup399
+        weight: 1
+      - path: group10/rockgroup399/pSphere1 332
+        weight: 1
+      - path: group10/rockgroup400
+        weight: 1
+      - path: group10/rockgroup400/pSphere1 335
+        weight: 1
+      - path: group10/rockgroup401
+        weight: 1
+      - path: group10/rockgroup401/pSphere1 336
+        weight: 1
+      - path: group10/rockgroup402
+        weight: 1
+      - path: group10/rockgroup402/pSphere1 337
+        weight: 1
+      - path: group10/rockgroup403
+        weight: 1
+      - path: group10/rockgroup403/pSphere1 338
+        weight: 1
+      - path: group10/rockgroup404
+        weight: 1
+      - path: group10/rockgroup404/pSphere1 339
+        weight: 1
+      - path: group10/rockgroup405
+        weight: 1
+      - path: group10/rockgroup405/pSphere1 340
+        weight: 1
+      - path: group10/rockgroup406
+        weight: 1
+      - path: group10/rockgroup406/pSphere1 341
+        weight: 1
+      - path: group10/rockgroup407
+        weight: 1
+      - path: group10/rockgroup407/pSphere1 342
+        weight: 1
+      - path: group10/rockgroup408
+        weight: 1
+      - path: group10/rockgroup408/pSphere1 343
+        weight: 1
+      - path: group10/rockgroup409
+        weight: 1
+      - path: group10/rockgroup409/pSphere1 344
+        weight: 1
+      - path: group10/rockgroup410
+        weight: 1
+      - path: group10/rockgroup410/pSphere1 346
+        weight: 1
+      - path: group10/rockgroup411
+        weight: 1
+      - path: group10/rockgroup411/pSphere1 347
+        weight: 1
+      - path: group10/rockgroup412
+        weight: 1
+      - path: group10/rockgroup412/pSphere1 348
+        weight: 1
+      - path: group10/rockgroup413
+        weight: 1
+      - path: group10/rockgroup413/pSphere1 349
+        weight: 1
+      - path: group10/rockgroup414
+        weight: 1
+      - path: group10/rockgroup414/pSphere1 350
+        weight: 1
+      - path: group10/rockgroup415
+        weight: 1
+      - path: group10/rockgroup415/pSphere1 351
+        weight: 1
+      - path: group10/rockgroup416
+        weight: 1
+      - path: group10/rockgroup416/pSphere1 352
+        weight: 1
+      - path: group10/rockgroup417
+        weight: 1
+      - path: group10/rockgroup417/pSphere1 353
+        weight: 1
+      - path: group10/rockgroup418
+        weight: 1
+      - path: group10/rockgroup418/pSphere1 354
+        weight: 1
+      - path: group10/rockgroup419
+        weight: 1
+      - path: group10/rockgroup419/pSphere1 355
+        weight: 1
+      - path: group10/rockgroup420
+        weight: 1
+      - path: group10/rockgroup420/pSphere1 357
+        weight: 1
+      - path: group10/rockgroup421
+        weight: 1
+      - path: group10/rockgroup421/pSphere1 358
+        weight: 1
+      - path: group10/rockgroup422
+        weight: 1
+      - path: group10/rockgroup422/pSphere1 359
+        weight: 1
+      - path: group10/rockgroup423
+        weight: 1
+      - path: group10/rockgroup423/pSphere1 360
+        weight: 1
+      - path: group10/rockgroup424
+        weight: 1
+      - path: group10/rockgroup424/pSphere1 361
+        weight: 1
+      - path: group10/rockgroup425
+        weight: 1
+      - path: group10/rockgroup425/pSphere1 362
+        weight: 1
+      - path: group10/rockgroup426
+        weight: 1
+      - path: group10/rockgroup426/pSphere1 363
+        weight: 1
+      - path: group10/rockgroup427
+        weight: 1
+      - path: group10/rockgroup427/pSphere1 364
+        weight: 1
+      - path: group10/rockgroup428
+        weight: 1
+      - path: group10/rockgroup428/pSphere1 365
+        weight: 1
+      - path: group10/rockgroup429
+        weight: 1
+      - path: group10/rockgroup429/pSphere1 366
+        weight: 1
+      - path: group10/rockgroup430
+        weight: 1
+      - path: group10/rockgroup430/pSphere1 368
+        weight: 1
+      - path: group10/rockgroup431
+        weight: 1
+      - path: group10/rockgroup431/pSphere1 369
+        weight: 1
+      - path: group10/rockgroup432
+        weight: 1
+      - path: group10/rockgroup432/pSphere1 370
+        weight: 1
+      - path: group10/rockgroup433
+        weight: 1
+      - path: group10/rockgroup433/pSphere1 371
+        weight: 1
+      - path: group10/rockgroup434
+        weight: 1
+      - path: group10/rockgroup434/pSphere1 372
+        weight: 1
+      - path: group10/rockgroup435
+        weight: 1
+      - path: group10/rockgroup435/pSphere1 373
+        weight: 1
+      - path: group10/rockgroup436
+        weight: 1
+      - path: group10/rockgroup436/pSphere1 374
+        weight: 1
+      - path: group10/rockgroup437
+        weight: 1
+      - path: group10/rockgroup437/pSphere1 375
+        weight: 1
+      - path: group10/rockgroup438
+        weight: 1
+      - path: group10/rockgroup438/pSphere1 376
+        weight: 1
+      - path: group10/rockgroup439
+        weight: 1
+      - path: group10/rockgroup439/pSphere1 377
+        weight: 1
+      - path: group10/rockgroup440
+        weight: 1
+      - path: group10/rockgroup440/pSphere1 379
+        weight: 1
+      - path: group10/rockgroup441
+        weight: 1
+      - path: group10/rockgroup441/pSphere1 380
+        weight: 1
+      - path: group10/rockgroup442
+        weight: 1
+      - path: group10/rockgroup442/pSphere1 381
+        weight: 1
+      - path: group10/rockgroup443
+        weight: 1
+      - path: group10/rockgroup443/pSphere1 382
+        weight: 1
+      - path: group10/rockgroup444
+        weight: 1
+      - path: group10/rockgroup444/pSphere1 383
+        weight: 1
+      - path: group10/rockgroup445
+        weight: 1
+      - path: group10/rockgroup445/pSphere1 384
+        weight: 1
+      - path: group10/rockgroup446
+        weight: 1
+      - path: group10/rockgroup446/pSphere1 385
+        weight: 1
+      - path: group10/rockgroup447
+        weight: 1
+      - path: group10/rockgroup447/pSphere1 386
+        weight: 1
+      - path: group10/rockgroup448
+        weight: 1
+      - path: group10/rockgroup448/pSphere1 387
+        weight: 1
+      - path: group10/rockgroup449
+        weight: 1
+      - path: group10/rockgroup449/pSphere1 388
+        weight: 1
+      - path: group10/rockgroup450
+        weight: 1
+      - path: group10/rockgroup450/pSphere1 390
+        weight: 1
+      - path: group10/rockgroup451
+        weight: 1
+      - path: group10/rockgroup451/pSphere1 391
+        weight: 1
+      - path: group10/rockgroup452
+        weight: 1
+      - path: group10/rockgroup452/pSphere1 392
+        weight: 1
+      - path: group10/rockgroup453
+        weight: 1
+      - path: group10/rockgroup453/pSphere1 393
+        weight: 1
+      - path: group10/rockgroup454
+        weight: 1
+      - path: group10/rockgroup454/pSphere1 394
+        weight: 1
+      - path: group10/rockgroup455
+        weight: 1
+      - path: group10/rockgroup455/pSphere1 395
+        weight: 1
+      - path: group10/rockgroup456
+        weight: 1
+      - path: group10/rockgroup456/pSphere1 396
+        weight: 1
+      - path: group10/rockgroup457
+        weight: 1
+      - path: group10/rockgroup457/pSphere1 397
+        weight: 1
+      - path: group10/rockgroup458
+        weight: 1
+      - path: group10/rockgroup458/pSphere1 398
+        weight: 1
+      - path: group10/rockgroup459
+        weight: 1
+      - path: group10/rockgroup459/pSphere1 399
+        weight: 1
+      - path: group10/rockgroup460
+        weight: 1
+      - path: group10/rockgroup460/pSphere1 401
+        weight: 1
+      - path: group10/rockgroup461
+        weight: 1
+      - path: group10/rockgroup461/pSphere1 402
+        weight: 1
+      - path: group10/rockgroup462
+        weight: 1
+      - path: group10/rockgroup462/pSphere1 403
+        weight: 1
+      - path: group10/rockgroup463
+        weight: 1
+      - path: group10/rockgroup463/pSphere1 404
+        weight: 1
+      - path: group10/rockgroup464
+        weight: 1
+      - path: group10/rockgroup464/pSphere1 405
+        weight: 1
+      - path: group10/rockgroup465
+        weight: 1
+      - path: group10/rockgroup465/pSphere1 406
+        weight: 1
+      - path: group10/rockgroup466
+        weight: 1
+      - path: group10/rockgroup466/pSphere1 407
+        weight: 1
+      - path: group10/rockgroup467
+        weight: 1
+      - path: group10/rockgroup467/pSphere1 408
+        weight: 1
+      - path: group10/rockgroup468
+        weight: 1
+      - path: group10/rockgroup468/pSphere1 409
+        weight: 1
+      - path: group10/rockgroup469
+        weight: 1
+      - path: group10/rockgroup469/pSphere1 410
+        weight: 1
+      - path: group10/rockgroup470
+        weight: 1
+      - path: group10/rockgroup470/pSphere1 412
+        weight: 1
+      - path: group10/rockgroup471
+        weight: 1
+      - path: group10/rockgroup471/pSphere1 413
+        weight: 1
+      - path: group10/rockgroup472
+        weight: 1
+      - path: group10/rockgroup472/pSphere1 414
+        weight: 1
+      - path: group10/rockgroup473
+        weight: 1
+      - path: group10/rockgroup473/pSphere1 415
+        weight: 1
+      - path: group10/rockgroup474
+        weight: 1
+      - path: group10/rockgroup474/pSphere1 416
+        weight: 1
+      - path: group10/rockgroup475
+        weight: 1
+      - path: group10/rockgroup475/pSphere1 417
+        weight: 1
+      - path: group10/rockgroup476
+        weight: 1
+      - path: group10/rockgroup476/pSphere1 418
+        weight: 1
+      - path: group10/rockgroup477
+        weight: 1
+      - path: group10/rockgroup477/pSphere1 419
+        weight: 1
+      - path: group10/rockgroup478
+        weight: 1
+      - path: group10/rockgroup478/pSphere1 420
+        weight: 1
+      - path: group10/rockgroup479
+        weight: 1
+      - path: group10/rockgroup479/pSphere1 421
+        weight: 1
+      - path: group10/rockgroup480
+        weight: 1
+      - path: group10/rockgroup480/pSphere1 423
+        weight: 1
+      - path: group10/rockgroup481
+        weight: 1
+      - path: group10/rockgroup481/pSphere1 424
+        weight: 1
+      - path: group10/rockgroup482
+        weight: 1
+      - path: group10/rockgroup482/pSphere1 425
+        weight: 1
+      - path: group10/rockgroup483
+        weight: 1
+      - path: group10/rockgroup483/pSphere1 426
+        weight: 1
+      - path: group10/rockgroup484
+        weight: 1
+      - path: group10/rockgroup484/pSphere1 427
+        weight: 1
+      - path: group10/rockgroup485
+        weight: 1
+      - path: group10/rockgroup485/pSphere1 428
+        weight: 1
+      - path: group10/rockgroup486
+        weight: 1
+      - path: group10/rockgroup486/pSphere1 429
+        weight: 1
+      - path: group10/rockgroup487
+        weight: 1
+      - path: group10/rockgroup487/pSphere1 430
+        weight: 1
+      - path: group10/rockgroup488
+        weight: 1
+      - path: group10/rockgroup488/pSphere1 431
+        weight: 1
+      - path: group10/rockgroup489
+        weight: 1
+      - path: group10/rockgroup489/pSphere1 432
+        weight: 1
+      - path: group10/rockgroup490
+        weight: 1
+      - path: group10/rockgroup490/pSphere1 434
+        weight: 1
+      - path: group10/rockgroup491
+        weight: 1
+      - path: group10/rockgroup491/pSphere1 435
+        weight: 1
+      - path: group10/rockgroup492
+        weight: 1
+      - path: group10/rockgroup492/pSphere1 436
+        weight: 1
+      - path: group10/rockgroup493
+        weight: 1
+      - path: group10/rockgroup493/pSphere1 437
+        weight: 1
+      - path: group10/rockgroup494
+        weight: 1
+      - path: group10/rockgroup494/pSphere1 438
+        weight: 1
+      - path: group10/rockgroup495
+        weight: 1
+      - path: group10/rockgroup495/pSphere1 439
+        weight: 1
+      - path: group10/rockgroup496
+        weight: 1
+      - path: group10/rockgroup496/pSphere1 440
+        weight: 1
+      - path: group10/rockgroup497
+        weight: 1
+      - path: group10/rockgroup497/pSphere1 441
+        weight: 1
+      - path: group10/rockgroup498
+        weight: 1
+      - path: group10/rockgroup498/pSphere1 442
+        weight: 1
+      - path: group10/rockgroup499
+        weight: 1
+      - path: group10/rockgroup499/pSphere1 443
+        weight: 1
+      - path: group10/rockgroup500
+        weight: 1
+      - path: group10/rockgroup500/pSphere1 446
+        weight: 1
+      - path: group10/rockgroup501
+        weight: 1
+      - path: group10/rockgroup501/pSphere1 447
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: SUN
+        weight: 1
+      - path: SUN/group1
+        weight: 1
+      - path: SUN/group1/MERCURY
+        weight: 1
+      - path: SUN/group2
+        weight: 1
+      - path: SUN/group2/VENUS
+        weight: 1
+      - path: SUN/group3
+        weight: 1
+      - path: SUN/group3/EARTH
+        weight: 1
+      - path: SUN/group3/EARTH/MOON_EARTH
+        weight: 1
+      - path: SUN/group4
+        weight: 1
+      - path: SUN/group4/MARS
+        weight: 1
+      - path: SUN/group5
+        weight: 1
+      - path: SUN/group5/JUPITER
+        weight: 1
+      - path: SUN/group6
+        weight: 1
+      - path: SUN/group6/STARUN
+        weight: 1
+      - path: SUN/group6/STARUN/RING1
+        weight: 1
+      - path: SUN/group6/STARUN/RING2
+        weight: 1
+      - path: SUN/group7
+        weight: 1
+      - path: SUN/group7/URANUS
+        weight: 1
+      - path: SUN/group8
+        weight: 1
+      - path: SUN/group8/NEPTUNE
+        weight: 1
+      - path: SUN/group9
+        weight: 1
+      - path: SUN/group9/PLUTO
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

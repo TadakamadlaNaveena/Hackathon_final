@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gold_fish" size="10.000000 6.637500" />
+    <ImageTarget name="Final_WaterCycle" size="10.000000 7.071155" />
+    <ImageTarget name="Final_Polygon" size="10.000000 7.071155" />
+    <ImageTarget name="Final_Monuments" size="10.000000 7.071155" />
+    <ImageTarget name="Final_Image_Solar_System" size="10.000000 7.071155" />
+  </Tracking>
+</QCARConfig>
